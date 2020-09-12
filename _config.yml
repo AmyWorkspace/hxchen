@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Huangxun CHEN's Homepage"
 title_separator          : "-"
-name                     : &name "Dr. Huangxun CHEN"
-description              : &description "Research@Huawei Theory Lab, Hong Kong"
+name                     : &name "Huangxun CHEN"
+description              : &description "Researcher@Huawei Theory Lab"
 url                      : https://amyworkspace.github.io/hxchen/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amyworkspace.github.io/hxchen/"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Huangxun CHEN"
-  avatar           : "WechatIMG78.jpeg"
+  avatar           : "mengzi.jpeg"
   bio              : "Researcher, Huawei Theory Lab | Ph.D., HKUST | B.S., SJTU "
   location         : "Hong Kong"
   employer         :
