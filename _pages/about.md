@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a researcher in Theory Lab, 2012 Labs, Huawei Hong Kong Research Center since Oct. 2020. 
+I am a researcher in Theory Lab, 2012 Labs, Huawei Hong Kong Research Center since Oct. 2020. 
 I received my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology in Aug. 2020, supervised by [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/).  
 During my Ph.D. study, I worked on topics in the intersection of intelligent IoT sensing and security. 
 I received my B.S. degree in Computer Science and Technology from Shanghai Jiaotong University in 2015. 
