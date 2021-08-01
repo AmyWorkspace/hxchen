@@ -30,7 +30,7 @@ I received my B.S. degree in Computer Science and Technology from Shanghai Jiaot
 
 ## Professional Experience
 
-**Researcher** at *Theory Lab, 2012 Labs, Huawei Hong Kong Research Center* (Oct. 2020 - )
+**Researcher** at *Theory Lab, 2012 Labs, Huawei* (Oct. 2020 - )
 
 **Teaching Assistant** at *HKUST* (2015 - 2018)
 
