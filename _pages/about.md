@@ -29,9 +29,6 @@ I received my B.S. degree in Computer Science and Technology from Shanghai Jiaot
 - **[ACM Ubicomp'18]** *Chenyu Huang, **Huangxun Chen**, Lin Yang, Qian Zhang*, "[BreathLive: Liveness Detection for Heart Sound Authentication with Deep Breathing](https://dl.acm.org/doi/10.1145/3191744)". 
 - **[IEEE Globecom'17]** *Chenyu Huang, Zhice Yang, **Huangxun Chen**, Qian Zhang*, "[Signing in the Air w/o Constraints: Robust Gesture-Based Authentication for Wrist Wearables](http://ieeexplore.ieee.org/document/8253995/)".
 
-[comment]: <> (**[IEEE WCMC'19]** Yatong Chen, **Huangxun Chen**, Shuo Yang, Xiaofeng Gao, Yunhe Guo, Fan Wu, "Designing Incentive Mechanisms for Mobile Crowdsensing with Intermediaries".)
-[comment]: <> (**[IEEE IWQoS'17]** Yatong Chen, **Huangxun Chen**, Shuo Yang, Xiaofeng Gao, Fan Wu, "Jump-start crowdsensing: A three-layer incentive framework for mobile crowdsensing".)
-
 ## Professional Experience
 
 **Researcher** at *Theory Lab, 2012 Labs, Huawei Hong Kong Research Center* (Oct. 2020 - )
