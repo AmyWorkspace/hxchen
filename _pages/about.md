@@ -15,7 +15,7 @@ I received my B.S. degree in Computer Science and Technology from Shanghai Jiaot
 ## Interests
 - Intelligent Sensing (Mobile/Wearable/Wireless Sensing) 
 - Machine Learning Systems 
-- Security 
+- Physical-layer Security 
 
 ## Publications
 
