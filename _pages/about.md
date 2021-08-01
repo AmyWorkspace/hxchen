@@ -19,11 +19,14 @@ I received my B.S. degree in Computer Science and Technology from Shanghai Jiaot
 
 ## Publications
 
+### Journal and Magazine
 - **[IEEE IoTJ'21]** ***Huangxun Chen**, Qianyi Huang, Chenyu Huang, Chenchen Liu, Tony Xiao Han, Qian Zhang*, "[SecurePilot: Improving Wireless Security of Single-Antenna IoT Devices](https://ieeexplore.ieee.org/document/9427993/)".
 - **[IEEE Network'20]** *Qianyi Huang, **Huangxun Chen**, Qian Zhang*, "[Joint Design of Sensing and Communication Systems for Smart Homes](https://ieeexplore.ieee.org/document/9143269)".
-- **[AAAI'20]** ***Huangxun Chen**, Chenyu Huang, Qianyi Huang, Qian Zhang, Wei Wang*, "[ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System](https://ojs.aaai.org/index.php/AAAI/article/view/5748/5604)". 
 - **[IEEE IoTJ'20]** ***Huangxun Chen**, Wei Wang, Jin Zhang, Qian Zhang*, "[EchoFace: Acoustic Sensor-Based Media Attack Detection for Face Authentication](https://ieeexplore.ieee.org/document/8932608/)".
 - **[IEEE IoTJ'20]** *Chenyu Huang, Zeyu Wang, **Huangxun Chen**, Qiwei Hu, Qian Zhang, Wei Wang, Xia Guan*, "[RepChain: A Reputation-Based Secure, Fast, and High Incentive Blockchain System via Sharding](https://ieeexplore.ieee.org/abstract/document/9211723/)".  
+
+### Conference 
+- **[AAAI'20]** ***Huangxun Chen**, Chenyu Huang, Qianyi Huang, Qian Zhang, Wei Wang*, "[ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System](https://ojs.aaai.org/index.php/AAAI/article/view/5748/5604)". 
 - **[IEEE Globecom'18]** ***Huangxun Chen**, Zhice Yang, Chenyu Huang, Qian Zhang*, "[DriveSafe Inspector: A Wearable-Based Fine-Grained Technique for Driver Hand Position Detection](https://ieeexplore.ieee.org/document/8647653)". 
 - **[ACM Ubicomp'18]** *Chenyu Huang, **Huangxun Chen**, Lin Yang, Qian Zhang*, "[BreathLive: Liveness Detection for Heart Sound Authentication with Deep Breathing](https://dl.acm.org/doi/10.1145/3191744)". 
 - **[IEEE Globecom'17]** *Chenyu Huang, Zhice Yang, **Huangxun Chen**, Qian Zhang*, "[Signing in the Air w/o Constraints: Robust Gesture-Based Authentication for Wrist Wearables](http://ieeexplore.ieee.org/document/8253995/)".
