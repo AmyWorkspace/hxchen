@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-
-Huangxun CHEN received her Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology in 2020, supervised by [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/).  She received her B.S. degree in Computer Science and Technology from Shanghai Jiaotong University in 2015. 
-
-During her Ph.D. study, she worked on topics in the intersection of intelligent IoT sensing and security. 
+I am currently a researcher in Theory Lab, 2012 Labs, Huawei Hong Kong Research Center since Oct. 2020. 
+I received my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology in Aug. 2020, supervised by [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/).  I received my B.S. degree in Computer Science and Technology from Shanghai Jiaotong University in 2015. 
+During my Ph.D. study, I worked on topics in the intersection of intelligent IoT sensing and security. 
 
 ## Interests
 - Intelligent Sensing (Mobile/Wearable/Wireless Sensing) 
@@ -21,7 +20,10 @@ During her Ph.D. study, she worked on topics in the intersection of intelligent 
 
 ## Publications
 
-- Huangxun Chen, Chenyu Huang, Qianyi Huang, Qian Zhang, Wei Wang, "ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System". AAAI 2020.
+- Huangxun Chen, Qianyi Huang, Chenyu Huang, Chenchen Liu, Tony Xiao Han, Qian Zhang, "SecurePilot: Improving Wireless Security of Single-Antenna IoT Devices". IEEE Internet of Things Jornal 2021 
+- Chenyu Huang, Zeyu Wang, Huangxun Chen, Qiwei Hu, Qian Zhang, Wei Wang, Xia Guan, "RepChain: A Reputation-Based Secure, Fast, and High Incentive Blockchain System via Sharding". IEEE Internet of Things Jornal 2020
+- Qianyi Huang, Huangxun Chen, Qian Zhang, "Joint Design of Sensing and Communication Systems for Smart Homes". IEEE Network 2020
+- Huangxun Chen, Chenyu Huang, Qianyi Huang, Qian Zhang, Wei Wang, "ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System". AAAI 2020
 - Huangxun Chen, Wei Wang, Jin Zhang, Qian Zhang, "EchoFace: Acoustic Sensor-Based Media Attack Detection for Face Authentication". IEEE Internet of Things Jornal 2020
 - Huangxun Chen, Zhice Yang, Chenyu Huang, Qian Zhang, "DriveSafe Inspector: A Wearable-Based Fine-Grained Technique for Driver Hand Position Detection". IEEE Globecom 2018
 - Chenyu Huang, Huangxun Chen, Lin Yang, Qian Zhang, "BreathLive: Liveness Detection for Heart Sound Authentication with Deep Breathing". ACM Ubicomp 2018
