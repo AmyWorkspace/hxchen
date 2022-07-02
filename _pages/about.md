@@ -56,11 +56,11 @@ Isolation](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-
 ## Talks
 <!-- - **ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System** -->
   <!-- - AAAI, Feb. 2020, New York, USA -->
-- **Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim**
+- *Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim*
   - ACM APNet, Jul. 2022, Virtual Event
-- **Fine-grained Multi-user Device-Free Gesture Tracking on Today’s Smart Speakers**
+- *Fine-grained Multi-user Device-Free Gesture Tracking on Today’s Smart Speakers*
   - IEEE MASS, Oct. 2021, Virtual Event
-- **DriveSafe Inspector: A Wearable-Based Fine-Grained Technique for Driver Hand Position Detection**
+- *DriveSafe Inspector: A Wearable-Based Fine-Grained Technique for Driver Hand Position Detection*
   - IEEE Globecom, Dec. 2018, Abu Dhabi, UAE
 
 ## Professional Experience
