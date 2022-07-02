@@ -19,15 +19,15 @@ I received my B.S. degree in Computer Science and Technology from Shanghai Jiaot
 - Physical-layer Security 
 
 ## Selected Research Projects
-<font size=3>**Machine Intelligence-driven Human-Machine Collaboration**</font> (April. 2021 - present)
+<big>**Machine Intelligence-driven Human-Machine Collaboration**</big> (April. 2021 - present)
 - **NAssim**: Design an assistant framework to help network operations (NetOps) teams accelerate the process of assimilating a new device into a SDN network. NAssim liberates the NetOps from most tedious tasks by learning directly from devices’ manuals to form data models which are comprehensible by both the SDN controller and human experts. *[SIGCOMM’22]*
 
-<font size=3>**Vulnerability of Machine Intelligence**</font>
+<big>**Vulnerability of Machine Intelligence**</big>
 (Sept. 2018 - present)
 - **WiAdv**: Study the security issues of WiFi-based gesture recognition systems. By dynamic multipath reflection synthesis and effective adversarial signal generation, WiAdv stealthily manipulates the prediction of the victim system. *[IMWUT/UBICOMP’22]*
 - **ECGadv**: Study and reveal the blind spots of DNN-powered arrhythmia diagnosis system. With delicate generation scheme, adversarial ECG perturbation can trigger the erroneous judgement of the victim system, but remain imperceptible to human experts. *[AAAI’20]*
 
-<font size=3>**Machine Intelligence for Human-Centered Computing**</font> (Jan. 2016 - May. 2021)
+<big>**Machine Intelligence for Human-Centered Computing**</big> (Jan. 2016 - May. 2021)
 - **SparseTrack**: Enable fine-grained multi-user device-free human gesture tracking on commercial smart speakers, especially for those with uniform circular microphone-array. *[MASS’21]*
 - **EchoFace**: Develop a liveness detection system on smartphones, leverage active acoustic sensing to sense the uneven stereostructure of the human face to defend against media-based attacks. *[IOTJ’19]*
 - **BreathLive**: Develop a liveness detection on chest-worn wearables to enhance heart sound-based authentication against replay attacks. *[IMWUT/UBICOMP’18]*
