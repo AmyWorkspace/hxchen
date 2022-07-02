@@ -19,25 +19,21 @@ I received my B.S. degree in Computer Science and Technology from Shanghai Jiaot
 - Physical-layer Security 
 
 ## Selected Research Projects
-<big>**Machine Intelligence-driven Human-Machine Collaboration**</big> (April. 2021 - present)
-
+<font size=3>**Machine Intelligence-driven Human-Machine Collaboration**</font> (April. 2021 - present)
 - **NAssim**: Design an assistant framework to help network operations (NetOps) teams accelerate the process of assimilating a new device into a SDN network. NAssim liberates the NetOps from most tedious tasks by learning directly from devices’ manuals to form data models which are comprehensible by both the SDN controller and human experts. *[SIGCOMM’22]*
 
-<big>**Vulnerability of Machine Intelligence**</big> 
+<font size=3>**Vulnerability of Machine Intelligence**</font>
 (Sept. 2018 - present)
-
 - **WiAdv**: Study the security issues of WiFi-based gesture recognition systems. By dynamic multipath reflection synthesis and effective adversarial signal generation, WiAdv stealthily manipulates the prediction of the victim system. *[IMWUT/UBICOMP’22]*
 - **ECGadv**: Study and reveal the blind spots of DNN-powered arrhythmia diagnosis system. With delicate generation scheme, adversarial ECG perturbation can trigger the erroneous judgement of the victim system, but remain imperceptible to human experts. *[AAAI’20]*
 
-<big>**Machine Intelligence for Human-Centered Computing**</big> (Jan. 2016 - May. 2021)
-
+<font size=3>**Machine Intelligence for Human-Centered Computing**</font> (Jan. 2016 - May. 2021)
 - **SparseTrack**: Enable fine-grained multi-user device-free human gesture tracking on commercial smart speakers, especially for those with uniform circular microphone-array. *[MASS’21]*
 - **EchoFace**: Develop a liveness detection system on smartphones, leverage active acoustic sensing to sense the uneven stereostructure of the human face to defend against media-based attacks. *[IOTJ’19]*
 - **BreathLive**: Develop a liveness detection on chest-worn wearables to enhance heart sound-based authentication against replay attacks. *[IMWUT/UBICOMP’18]*
 - **DriveSafe Inspector**: Develop a wearable-based fined-grained hand position monitoring system to continuously detect a driver’s hand position on the steering wheel. *[GLOBECOM’18]*
 
 ## Peer-Reviewed Journal/Conference Papers
-
 ### Journal and Magazine
 - **[ACM IMWUT/Ubicomp'22]** *Yuxuan Zhou, **Huangxun Chen**, Chenyu Huang, Qian Zhang*, "WiAdv: Practical and Robust Adversarial Attack WiFi-based Gesture Recognition System (to appear)". 
 - **[IEEE IoTJ'21]** ***Huangxun Chen**, Qianyi Huang, Chenyu Huang, Chenchen Liu, Tony Xiao Han, Qian Zhang*, "[SecurePilot: Improving Wireless Security of Single-Antenna IoT Devices](https://ieeexplore.ieee.org/document/9427993/)".
@@ -57,8 +53,17 @@ Isolation](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-
 - **[IEEE IWQoS'17]** *Yatong Chen, **Huangxun Chen**, Shuo Yang, Xiaofeng Gao, Fan Wu*, "[Jump-start crowdsensing: A three-layer incentive framework for mobile crowdsensing](https://ieeexplore.ieee.org/document/7969168)".
 - **[IEEE Globecom'17]** *Chenyu Huang, Zhice Yang, **Huangxun Chen**, Qian Zhang*, "[Signing in the Air w/o Constraints: Robust Gesture-Based Authentication for Wrist Wearables](http://ieeexplore.ieee.org/document/8253995/)".
 
-## Professional Experience
+## Talks
+<!-- - **ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System** -->
+  <!-- - AAAI, Feb. 2020, New York, USA -->
+- **Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim**
+  - ACM APNet, Jul. 2022, Virtual Event
+- **Fine-grained Multi-user Device-Free Gesture Tracking on Today’s Smart Speakers**
+  - IEEE MASS, Oct. 2021, Virtual Event
+- **DriveSafe Inspector: A Wearable-Based Fine-Grained Technique for Driver Hand Position Detection**
+  - IEEE Globecom, Dec. 2018, Abu Dhabi, UAE
 
+## Professional Experience
 **Researcher** at *Theory Lab, 2012 Labs, Huawei* (Oct. 2020 - )
 
 - Leading the network configuration automated generation/translation project. (Apr. 2021 - present)
