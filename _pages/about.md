@@ -35,7 +35,7 @@ I received my B.S. degree in Computer Science and Technology from Shanghai Jiaot
 
 ## Peer-Reviewed Journal/Conference Papers
 <big>**Journal and Magazine**</big>
-- **[ACM IMWUT/Ubicomp'22]** *Yuxuan Zhou, **Huangxun Chen**, Chenyu Huang, Qian Zhang*, "WiAdv: Practical and Robust Adversarial Attack WiFi-based Gesture Recognition System (to appear)". 
+- **[ACM IMWUT/Ubicomp'22]** *Yuxuan Zhou, **Huangxun Chen**, Chenyu Huang, Qian Zhang*, "[WiAdv: Practical and Robust Adversarial Attack WiFi-based Gesture Recognition System](https://dl.acm.org/doi/abs/10.1145/3534618)". 
 - **[IEEE IoTJ'21]** ***Huangxun Chen**, Qianyi Huang, Chenyu Huang, Chenchen Liu, Tony Xiao Han, Qian Zhang*, "[SecurePilot: Improving Wireless Security of Single-Antenna IoT Devices](https://ieeexplore.ieee.org/document/9427993/)".
 - **[IEEE IoTJ'21]** *Chenyu Huang, Yongjun Zhao, **Huangxun Chen**, Xu Wang, Qian Zhang, Yanjiao Chen, Huaxiong Wang, Kwok-Yan Lam*, "[ZkRep: A Privacy-Preserving Scheme for Reputation-Based Blockchain System](https://ieeexplore.ieee.org/abstract/document/9521236)".
 - **[IEEE Network'20]** *Qianyi Huang, **Huangxun Chen**, Qian Zhang*, "[Joint Design of Sensing and Communication Systems for Smart Homes](https://ieeexplore.ieee.org/document/9143269)".
