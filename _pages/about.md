@@ -35,17 +35,6 @@ I received my B.S. degree in Computer Science and Technology from Shanghai Jiaot
 - **BreathLive**: Develop a liveness detection on chest-worn wearables to enhance heart sound-based authentication against replay attacks. *[IMWUT/UBICOMP’18]*
 - **DriveSafe Inspector**: Develop a wearable-based fined-grained hand position monitoring system to continuously detect a driver’s hand position on the steering wheel. *[GLOBECOM’18]*
 
-## Talks
-<!-- - **ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System** -->
-  <!-- - AAAI, Feb. 2020, New York, USA -->
-- *Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim*
-  - ACM SIGCOMM, Aug. 2022, Amsterdam, the Netherlands  
-  - ACM APNet, Jul. 2022, Virtual Event
-- *Fine-grained Multi-user Device-Free Gesture Tracking on Today’s Smart Speakers*
-  - IEEE MASS, Oct. 2021, Virtual Event
-- *DriveSafe Inspector: A Wearable-Based Fine-Grained Technique for Driver Hand Position Detection*
-  - IEEE Globecom, Dec. 2018, Abu Dhabi, UAE
-
 ## Professional Experience
 **Researcher** at *Theory Lab, 2012 Labs, Huawei* (Oct. 2020 - )
 
