@@ -1,13 +1,11 @@
 ---
-# layout: archive
-title: "Talks and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 redirect_from: 
   - /talks/
   - /talks.html
 ---
-
 <!-- {% if site.talkmap_link == true %}
 
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
