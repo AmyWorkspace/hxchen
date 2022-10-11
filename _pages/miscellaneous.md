@@ -2,9 +2,6 @@
 title: "Miscellaneous"
 permalink: /miscellaneous/
 author_profile: true
-redirect_from: 
-  - /miscellaneous/
-  - /miscellaneous.html
 ---
 
 ## Inspiring Articles
