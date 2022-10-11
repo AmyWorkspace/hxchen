@@ -12,9 +12,11 @@ I am a researcher in Theory Lab, 2012 Labs, Huawei Hong Kong Research Center sin
 Before joining Huawei, I received my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology in Aug. 2020, supervised by [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/). During my Ph.D. study, I worked on topics in the intersection of intelligent IoT sensing and security. 
 I received my B.S. degree in Computer Science and Technology from Shanghai Jiaotong University in 2015. 
 
-I keep open-minded to new problem domains and look forward to collaboration. Email me if you'd like to chat. 
+I keep open-minded to new problem domains and look forward to academic collaboration. Email me if you'd like to chat. 
 
 <!-- I always welcome motivated students to do long-term research with me. Email me if you'd like to chat! -->
+<!-- ## News
+- 08/2022.  -->
 
 ## Research Interests
 - Network Configuration Management
