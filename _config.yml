@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Huangxun CHEN"
   avatar           : "chx.jpg"
-  bio              : "Researcher, Huawei Theory Lab | Ph.D., HKUST | B.S., SJTU "
+  bio              : "Researcher, Huawei HKRC | Ph.D., HKUST | B.S., SJTU "
   location         : "Hong Kong"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "chenhx"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
