@@ -2,9 +2,6 @@
 title: "Talks and Presentations"
 permalink: /talks/
 author_profile: true
-redirect_from: 
-  - /talks/
-  - /talks.html
 ---
 <!-- {% if site.talkmap_link == true %}
 

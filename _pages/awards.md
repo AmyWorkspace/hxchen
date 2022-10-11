@@ -2,9 +2,6 @@
 title: "Awards and Honors"
 permalink: /awards/
 author_profile: true
-redirect_from: 
-  - /awards/
-  - /awards.html
 ---
 
 - ACM SIGCOMM 2022 Best Paper Award

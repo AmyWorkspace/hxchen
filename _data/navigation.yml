@@ -3,14 +3,17 @@ main:
   - title: "Publications"
     url: /publications/  
 
-  - title: "Miscellaneous"
-    url: /miscellaneous/
-
   - title: "Professional Experience"
     url: /experiences/
 
+  - title: "Talks"
+    url: /talks/ 
+
   - title: "Honers and Awards"
     url: /awards/ 
+
+  - title: "Miscellaneous"
+    url: /miscellaneous/
 
   # - title: "Blog Posts"
   #   url: /year-archive/

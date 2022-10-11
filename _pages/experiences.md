@@ -2,9 +2,6 @@
 title: "Professional Experience"
 permalink: /experiences/
 author_profile: true
-redirect_from: 
-  - /experiences/
-  - /experiences.html
 ---
 
 **Researcher** at *Theory Lab, 2012 Labs, Huawei* (Oct. 2020 - )
