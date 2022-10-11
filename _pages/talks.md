@@ -1,11 +1,11 @@
 ---
-<!-- layout: archive -->
+# layout: archive
 title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
-redirect_from:
-- /talks/
-- /takls.html
+redirect_from: 
+  - /talks/
+  - /talks.html
 ---
 
 <!-- {% if site.talkmap_link == true %}
@@ -18,13 +18,12 @@ redirect_from:
 {% include archive-single-talk.html %}
 {% endfor %} -->
 
-- *Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management
-with NAssim*
-- ACM SIGCOMM, Aug. 2022, Amsterdam, the Netherlands
-- ACM APNet, Jul. 2022, Virtual Event
-- *ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System*
-- AAAI, Feb. 2020, New York, USA
+- *Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim*
+  - ACM SIGCOMM, Aug. 2022, Amsterdam, the Netherlands  
+  - ACM APNet, Jul. 2022, Virtual Event
 - *Fine-grained Multi-user Device-Free Gesture Tracking on Today’s Smart Speakers*
-- IEEE MASS, Oct. 2021, Virtual Event
+  - IEEE MASS, Oct. 2021, Virtual Event
+- *ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System*
+  - AAAI, Feb. 2020, New York, USA
 - *DriveSafe Inspector: A Wearable-Based Fine-Grained Technique for Driver Hand Position Detection*
-- IEEE Globecom, Dec. 2018, Abu Dhabi, UAE
+  - IEEE Globecom, Dec. 2018, Abu Dhabi, UAE
