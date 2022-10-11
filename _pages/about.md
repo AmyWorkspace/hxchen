@@ -12,6 +12,8 @@ I am a researcher in Theory Lab, 2012 Labs, Huawei Hong Kong Research Center sin
 Before joining Huawei, I received my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology in Aug. 2020, supervised by [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/). During my Ph.D. study, I worked on topics in the intersection of intelligent IoT sensing and security. 
 I received my B.S. degree in Computer Science and Technology from Shanghai Jiaotong University in 2015. 
 
+I keep open-minded to new problem domains and look forward to collaboration. Email me if you'd like to chat. 
+
 <!-- I always welcome motivated students to do long-term research with me. Email me if you'd like to chat! -->
 
 ## Research Interests
@@ -21,41 +23,17 @@ I received my B.S. degree in Computer Science and Technology from Shanghai Jiaot
 - Physical-layer Security 
 
 ## Selected Research Projects
-<big>**Machine Intelligence-driven Human-Machine Collaboration**</big> (April. 2021 - present)
-- **NAssim**: Design an assistant framework to help network operations (NetOps) teams accelerate the process of assimilating a new device into a SDN network. NAssim liberates the NetOps from most tedious tasks by learning directly from devices’ manuals to form data models which are comprehensible by both the SDN controller and human experts. *[SIGCOMM’22]*
+<big>**Facilitate Better Machine-to-Machine Collaboration**</big> (Dec. 2019 - present)
+- **NAssim**: Design an assistant framework to help network operations (NetOps) teams accelerate the process of assimilating a new device into a SDN network. NAssim liberates the NetOps from most tedious tasks by learning directly from devices’ manuals to form data models which are comprehensible by both the SDN controller and human experts. *[SIGCOMM’22, Best Paper Award]*
+- **SecurePilot**: Develop a lightweight scheme to extract physical-layer signatures embedded in pilot sub-carrier signals to assist identifying other authentic wireless peers. SecurePilot integrates both signatures of multi-path wireless environment around the devices and transceiver-specific ones due to manufacturing imperfections to construct sensitive profiles to detect and mitigate active attacks. *[IOTJ'21]*
 
-<big>**Vulnerability of Machine Intelligence**</big>
+<big>**Investigate the Trustworthiness of Machine Intelligence' Perception**</big>
 (Sept. 2018 - present)
 - **WiAdv**: Study the security issues of WiFi-based gesture recognition systems. By dynamic multipath reflection synthesis and effective adversarial signal generation, WiAdv stealthily manipulates the prediction of the victim system. *[IMWUT/UBICOMP’22]*
 - **ECGadv**: Study and reveal the blind spots of DNN-powered arrhythmia diagnosis system. With delicate generation scheme, adversarial ECG perturbation can trigger the erroneous judgement of the victim system, but remain imperceptible to human experts. *[AAAI’20]*
 
-<big>**Machine Intelligence for Human-Centered Computing**</big> (Jan. 2016 - May. 2021)
+<big>**Machine Intelligence for Advancing Human-Centered Computing**</big> (Jan. 2016 - May. 2021)
 - **SparseTrack**: Enable fine-grained multi-user device-free human gesture tracking on commercial smart speakers, especially for those with uniform circular microphone-array. *[MASS’21]*
 - **EchoFace**: Develop a liveness detection system on smartphones, leverage active acoustic sensing to sense the uneven stereostructure of the human face to defend against media-based attacks. *[IOTJ’19]*
 - **BreathLive**: Develop a liveness detection on chest-worn wearables to enhance heart sound-based authentication against replay attacks. *[IMWUT/UBICOMP’18]*
 - **DriveSafe Inspector**: Develop a wearable-based fined-grained hand position monitoring system to continuously detect a driver’s hand position on the steering wheel. *[GLOBECOM’18]*
-
-## Professional Experience
-**Researcher** at *Theory Lab, 2012 Labs, Huawei* (Oct. 2020 - )
-
-- Leading the network configuration automated generation/translation project. (Apr. 2021 - present)
-- Worked on co-located optical cable inference in the optical network. (Oct. 2020 - Mar. 2021)
-
-**Teaching Assistant** at *HKUST* (2015 - 2018)
-
-- COMP4621 Computer Communication Networks I
-- COMP2611 Computer Organization 
-
-## Awards and Honors
-- ACM SIGCOMM 2022 Best Paper Award
-- Innovation Pioneer (Second Prize), Huawei Central Research Institute (Aug. 2022, Aug. 2021)
-- *Research Travel Grant, HKUST* (Mar. 2020)
-- *HKPFS Conference Travel Grant, HKUST* (Dec. 2018)
-- *Hong Kong PhD Fellowship, HKUST* (2015-2019)
-- *Excellent Graduate Award, SJTU* (Jun. 2015)
-- *Google Anita Borg Memorial Scholarship* (Jun. 2014)
-- *National Scholarship, SJTU* (Nov. 2013)
-- *Academic Excellence Scholarship (Second-class), SJTU* (2012, 2013)
-
-
-
