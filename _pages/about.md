@@ -14,6 +14,7 @@ I received my B.S. degree in Computer Science and Technology from Shanghai Jiaot
 
 I keep open-minded to new problem domains and look forward to academic collaboration. Email me if you'd like to chat. 
 
+My Chinese name is 陈 ch&eacute;n 煌 hu&aacute;ng 栒 x&uacute;n. 
 <!-- I always welcome motivated students to do long-term research with me. Email me if you'd like to chat! -->
 <!-- ## News
 - 08/2022.  -->
