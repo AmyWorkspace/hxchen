@@ -18,9 +18,7 @@ My Chinese name is 陈 ch&eacute;n 煌 hu&aacute;ng 栒 x&uacute;n.
 
 ## Research Interests
 
-I am broadly interested in challenging problems with practical impact, with particular focuses on networked and cyber-physical systems.
-
-I have conducted research that spans the areas of intelligent sensing (mobile/wearable/wireless sensing), cyber-physical security, the internet of things, network configuration management and their intersection with machine learning techniques.
+I am broadly interested in challenging problems with practical impact, with particular focuses on networked and cyber-physical systems. My past and on-going research spans the areas of intelligent sensing (mobile/wearable/wireless sensing), cyber-physical security, the internet of things, network configuration management and their intersection with machine learning techniques.
 
 I keep open-minded to new problem domains and look forward to academic collaboration. Email me if you'd like to chat.
 
