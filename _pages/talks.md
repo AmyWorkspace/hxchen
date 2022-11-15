@@ -15,7 +15,9 @@ author_profile: true
 {% endfor %} -->
 
 - _Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim_
-  - ACM SIGCOMM, Aug. 2022, Amsterdam, the Netherlands [video](https://www.youtube.com/watch?v=9wmZFbLiDC0&ab_channel=ACMSIGCOMM)
+  - HKUST CSE Award Papers Seminar, Nov. 2022, Virtual Event [[event link]](https://calendar.hkust.edu.hk/events/computer-science-and-engineering-award-papers-online-seminar)
+  - IETF 115 (RTGWG), Nov. 2022, Virtual Event [[event link]](https://datatracker.ietf.org/doc/agenda-115-rtgwg/) [[video]](https://www.youtube.com/watch?v=d7KYdd1XX8w&list=PLC86T-6ZTP5ji_vvPbmRjTek-OvYffv7a&index=115&ab_channel=IETF-InternetEngineeringTaskForce)
+  - ACM SIGCOMM, Aug. 2022, Amsterdam, the Netherlands [[video]](https://www.youtube.com/watch?v=9wmZFbLiDC0&ab_channel=ACMSIGCOMM)
   - ACM APNet, Jul. 2022, Virtual Event
 - _Fine-grained Multi-user Device-Free Gesture Tracking on Today’s Smart Speakers_
   - IEEE MASS, Oct. 2021, Virtual Event
