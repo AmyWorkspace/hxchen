@@ -30,7 +30,7 @@ redirect_from:
 
 <big>**Conference**</big>
 
-- **[IEEE INFOCOM'23]** _Qingyong Hu, Hua Kang, **Huangxun Chen**, Qianyi Huang, Qian Zhang, Min Cheng_, "[CSI-StripeFormer: Exploiting Stripe Features for CSI Compression in Massive MIMO System]()". (_to appear_)
+- **[IEEE INFOCOM'23]** _Qingyong Hu, Hua Kang, **Huangxun Chen**, Qianyi Huang, Qian Zhang, Min Cheng_, "[CSI-StripeFormer: Exploiting Stripe Features for CSI Compression in Massive MIMO System](https://infocom.info/day/3/track/Track%20B)". [[paper]](https://amyworkspace.github.io/hxchen/files/infocom23-csistripeformer.pdf)
 - **[ACM SIGCOMM'22]** _**Huangxun Chen**, Yukai Miao, Li Chen, Haifeng Sun, Hong Xu, Libin Liu, Gong Zhang, Wei Wang_, "[Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim](https://dl.acm.org/doi/10.1145/3544216.3544244)". [[paper]](https://amyworkspace.github.io/hxchen/files/sigcomm22-nassim.pdf) [[slide]](https://amyworkspace.github.io/hxchen/files/sigcomm22-nassim-slide.pdf) [[dataset]](https://github.com/AmyWorkspace/nassim) _<font color=red>Best Paper Award!</font>_
 - **[USENIX Security'22]** _Zhiwei Wang, Yihui Yan, Yueli Yan, **Huangxun Chen**, Zhice Yang_, "[CamShield: Securing Smart Cameras through Physical Replication and
   Isolation](https://www.usenix.org/conference/usenixsecurity22/presentation/wang-zhiwei)". [[paper]](https://www.yangzhice.com/docforweb/CamShield/CamShield_Security.pdf) [[slide]](https://www.usenix.org/system/files/sec22_slides-wang_zhiwei.pdf)
