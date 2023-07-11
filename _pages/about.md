@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in Theory Lab, 2012 Labs, Huawei Hong Kong Research Center since Oct. 2020. I am currently working on network configuration management and its intersections with machine learning.
+
+I am going to join the [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) at the Hong Kong University of Science and Technology (Guangzhou) in August 2023 as an Assistant Professor in [Internet of Things (IoT) Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/). 
+
+I plan to recruit 2024 Spring/Fall PhD students and Research Assistants. [[Recruitment details](https://www.chenhuangxun.com/recruitment/)]
+
+I am currently a researcher in Theory Lab, 2012 Labs, Huawei Hong Kong Research Center since Oct. 2020. I am currently working on network configuration management and its intersections with machine learning.
 Before joining Huawei, I received my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology in Aug. 2020, supervised by [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/). During my Ph.D. study, I mainly worked on topics in the intersection of intelligent IoT sensing and security.
 I received my B.S. degree in Computer Science and Technology from Shanghai Jiaotong University in 2015.
 

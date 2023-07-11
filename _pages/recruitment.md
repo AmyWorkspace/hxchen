@@ -1,16 +1,16 @@
 ---
-title: "Recruitment"
+title: "Recruitment Information"
 permalink: /recruitment/
 author_profile: true
 ---
 
-**招聘贴**
 
 大家好，我是陈煌栒（Chen Huangxun），将于2023年8月入职香港科技大学（广州）信息枢纽（Information Hub），担任物联网学域（IoT Thrust）的助理教授。
 
 我计划招收多名2024年春/秋季入学的博士研究生（全额奖学金每月RMB 15,000）和Research Assistant。
 
-我目前和过往的研究方向涵盖网络配置管理、信息物理系统安全、智能感知以及与机器学习算法的交叉研究，相关论文发表在计算机网络、普适计算和机器学习等领域的会议上，包括SIGCOMM/UBICOMP/AAAI/INFOCOM/USENIX Security等。对我的工作感兴趣的同学可以访问我的主页：https://www.chenhuangxun.com/
+我目前和过往的研究方向涵盖网络配置管理、信息物理系统安全、智能感知以及与机器学习算法的交叉研究，相关论文发表在计算机网络、普适计算和机器学习等领域的会议上，包括SIGCOMM/UBICOMP/AAAI/INFOCOM/USENIX Security等。
+对我的工作感兴趣的同学可以访问我的[主页](https://www.chenhuangxun.com/)。
 
 我计划探索网络和信息物理系统在设计、管理、演进的全流程中所面临的实际挑战和需求，结合人工智能等前沿技术，构建相关的支撑框架/系统/算法，致力于实现以下目标：
 - 加速基于意图的系统设计；
