@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently serving as an Assistant Professor in the [Internet of Things Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/) at the [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) of the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
-Before joining HKUST-GZ, I worked as a researcher at Huawei Hong Kong Research Center from October 2020 to August 2023. I received my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology in August 2020, under the supervision of [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/). I obtained my B.S. degree in Computer Science and Technology from Shanghai Jiaotong University in 2015.
+Before joining HKUST-GZ, I worked as a Researcher at Huawei Hong Kong Research Center from October 2020 to August 2023. I received my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology in August 2020, under the supervision of [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/). I obtained my B.S. degree in Computer Science and Technology from Shanghai Jiaotong University in 2015.
 
 My Chinese name and its pronunciation are
 <ruby>
