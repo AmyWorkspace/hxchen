@@ -8,18 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+I am currently serving as an Assitant Professor in the [Internet of Things Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/) at the [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) of the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
+Before joining HKUST-GZ, I worked as a researcher at Huawei Hong Kong Research Center from October 2020 to August 2023. I received my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology in August 2020, under the supervision of [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/). I obtained my B.S. degree in Computer Science and Technology from Shanghai Jiaotong University in 2015.
 
-I am going to join the [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) at the Hong Kong University of Science and Technology (Guangzhou) in August 2023 as an Assistant Professor in the [Internet of Things Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/). 
-
-I plan to recruit 2024 Spring/Fall PhD students and Research Assistants. [[Recruitment details]](https://www.chenhuangxun.com/recruitment/)
-
-I am currently a researcher in Theory Lab, 2012 Labs, Huawei Hong Kong Research Center since Oct. 2020. I am currently working on network configuration management and its intersections with machine learning.
-Before joining Huawei, I received my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology in Aug. 2020, supervised by [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/). During my Ph.D. study, I mainly worked on topics in the intersection of intelligent IoT sensing and security.
-I received my B.S. degree in Computer Science and Technology from Shanghai Jiaotong University in 2015.
-
-<!-- My Chinese name is 陈 ch&eacute;n 煌 hu&aacute;ng 栒 x&uacute;n. -->
-
-My Chinese name is
+My Chinese name and its pronunciation are
 <ruby>
 陈 煌 栒
 <rp>
@@ -28,15 +20,28 @@ My Chinese name is
 </ruby>
 .
 
+<!-- My Chinese name is 陈 ch&eacute;n 煌 hu&aacute;ng 栒 x&uacute;n. -->
+
 <!-- I always welcome motivated students to do long-term research with me. Email me if you'd like to chat! -->
 
 ## Research Interests
 
-I am broadly interested in challenging problems with practical impact, with particular focuses on networked and cyber-physical systems. My past and on-going research spans the areas of intelligent sensing, cyber-physical security, internet of things, network configuration management and their intersection with machine learning techniques.
+I am broadly interested in challenging problems with practical impact, with particular focuses on networked and cyber-physical systems.
 
-I keep open-minded to new problem domains and look forward to academic collaboration. Email me if you'd like to chat.
+My past research spans the areas of intelligent sensing, cyber-physical security, internet of things, network configuration management and their intersection with machine learning techniques.
+Relevant papers have been published in conferences in the fields of computer networks, ubiquitous computing, and machine learning, including SIGCOMM/UBICOMP/AAAI/INFOCOM/USENIX Security.
 
-Email: chen DOT huangxun DOT amy AT gmail DOT com
+I am currently interested in exploring the practical challenges and requirements encountered in the design, management, and evolution of networks and cyber-physical systems. My goal is to utilize cutting-edge technologies like artificial intelligence to develop supportive frameworks, systems, and algorithms, which aim to achieve a range of objectives, including but not limited to:
+
+- Accelerate intent-based system design.
+- Achieve system behavior management based on specification requirements.
+- Streamline the complexity of cognition and interaction in the design, management, and evolution of networks and cyber-physical systems.
+- etc...
+
+I am always welcome motivated PhD/MPhil/RA/Visiting student to work with me at HKUST(GZ).
+The up-to-date recruitment details can be found [here](https://www.chenhuangxun.com/recruitment/).
+
+I also keep open-minded to cross-disciplinary problem domains and look forward to academic collaboration. Email me if you'd like to chat.
 
 <!--
 - Network Configuration Management
@@ -44,22 +49,7 @@ Email: chen DOT huangxun DOT amy AT gmail DOT com
 - Machine Learning Algorithms
 - Physical-layer Security  -->
 
-## Selected Research Projects
+## News
 
-<big>**Facilitate Better Machine-to-Machine Collaboration**</big> (Dec. 2019 - present)
-
-- **NAssim**: Design an assistant framework to help network operations (NetOps) teams accelerate the process of assimilating a new device into a SDN network. NAssim liberates the NetOps from most tedious tasks by learning directly from devices’ manuals to form data models which are comprehensible by both the SDN controller and human experts. _[SIGCOMM’22, Best Paper Award]_
-- **SecurePilot**: Develop a lightweight scheme to extract physical-layer signatures embedded in pilot sub-carrier signals to assist identifying other authentic wireless peers. SecurePilot integrates both signatures of multi-path wireless environment around the devices and transceiver-specific ones due to manufacturing imperfections to construct sensitive profiles to detect and mitigate active attacks. _[IOTJ'21]_
-
-<big>**Investigate the Trustworthiness of Machine Intelligence' Perception**</big>
-(Sept. 2018 - present)
-
-- **WiAdv**: Study the security issues of WiFi-based gesture recognition systems. By dynamic multipath reflection synthesis and effective adversarial signal generation, WiAdv stealthily manipulates the prediction of the victim system. _[IMWUT/UBICOMP’22]_
-- **ECGadv**: Study and reveal the blind spots of DNN-powered arrhythmia diagnosis system. With delicate generation scheme, adversarial ECG perturbation can trigger the erroneous judgement of the victim system, but remain imperceptible to human experts. _[AAAI’20]_
-
-<big>**Machine Intelligence for Advancing Human-Centered Computing**</big> (Jan. 2016 - May. 2021)
-
-- **SparseTrack**: Enable fine-grained multi-user device-free human gesture tracking on commercial smart speakers, especially for those with uniform circular microphone-array. _[MASS’21]_
-- **EchoFace**: Develop a liveness detection system on smartphones, leverage active acoustic sensing to sense the uneven stereostructure of the human face to defend against media-based attacks. _[IOTJ’19]_
-- **BreathLive**: Develop a liveness detection on chest-worn wearables to enhance heart sound-based authentication against replay attacks. _[IMWUT/UBICOMP’18]_
-- **DriveSafe Inspector**: Develop a wearable-based fined-grained hand position monitoring system to continuously detect a driver’s hand position on the steering wheel. _[GLOBECOM’18]_
+- [15/08/2023] Joining HKUST-GZ as an Assistant Professor. New journey :)
+<!-- - [10/08/2023] Last Day in Huawei Hong Kong.  -->
