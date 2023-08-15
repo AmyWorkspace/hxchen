@@ -1,10 +1,10 @@
 # main links links
 main:
+  - title: "Projects"
+    url: /projects/
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Research Projects"
-    url: /projects/
 
   - title: "Professional Experience"
     url: /experiences/
@@ -12,7 +12,7 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Honers and Awards"
+  - title: "Honers&Awards"
     url: /awards/
 
   - title: "Miscellaneous"
