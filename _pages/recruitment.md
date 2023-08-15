@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-大家好，我是陈煌栒（Chen Huangxun），将于2023年8月入职香港科技大学（广州）信息枢纽（Information Hub），担任物联网学域（IoT Thrust）的助理教授。
+大家好，我是陈煌栒（Chen Huangxun），于2023年8月入职香港科技大学（广州）信息枢纽（Information Hub），担任物联网学域（IoT Thrust）的助理教授。
 
 我计划招收多名2024年春/秋季入学的博士研究生（全额奖学金每月RMB 15,000）和Research Assistant （有竞争力的薪酬）。
 
@@ -35,6 +35,8 @@ author_profile: true
 
 如果你有兴趣和我一起工作，请通过邮箱联系我chen.huangxun.amy@gmail.com，并附上你的简历和成绩单。
 如果你有科研项目经验，也欢迎附上相关的信息和GitHub仓库链接。
+
+p.s. 由于邮件比较多，恕我无法一一回复，但我会仔细阅读每一封邮件，联系合适的候选人进行面试。
 
 **学校介绍**
 
