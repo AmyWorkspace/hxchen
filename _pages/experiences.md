@@ -24,6 +24,7 @@ author_profile: true
 
 **Reviewer**:
 
+- ACM IMWUT/Ubicomp (Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies)
 - IEEE IoTJ (Internet of Things Journal)
 - IEEE TDSC (Transactions on Dependable and Secure Computing)
 - IEEE TCC (Transactions on Cloud Computing)
