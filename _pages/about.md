@@ -38,7 +38,7 @@ I am currently interested in exploring the practical challenges and requirements
 - Streamline the complexity of cognition and interaction in the design, management, and evolution of networks and cyber-physical systems.
 - etc...
 
-I am always welcome motivated PhD/MPhil/RA/Visiting student to work with me at HKUST(GZ).
+I am always welcome motivated PhD/MPhil/RA/Visiting students to work with me at HKUST(GZ).
 The up-to-date recruitment details can be found [here](https://www.chenhuangxun.com/recruitment/).
 
 I also keep open-minded to cross-disciplinary problem domains and look forward to academic collaboration. Email me if you'd like to chat.
@@ -51,5 +51,6 @@ I also keep open-minded to cross-disciplinary problem domains and look forward t
 
 ## News
 
+- [20/09/2023] RIStealth and RIScan are accepted to SenSys 2023. 
 - [15/08/2023] Joining HKUST-GZ as an Assistant Professor. New journey :)
 <!-- - [10/08/2023] Last Day in Huawei Hong Kong.  -->
