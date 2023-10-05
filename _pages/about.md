@@ -24,12 +24,15 @@ My Chinese name and its pronunciation are
 
 <!-- I always welcome motivated students to do long-term research with me. Email me if you'd like to chat! -->
 
+I always welcome motivated PhD/MPhil/RA/Visiting students to work with me at HKUST(GZ).
+The up-to-date recruitment details can be found [here](https://www.chenhuangxun.com/recruitment/).
+
 ## Research Interests
 
 I am broadly interested in challenging problems with practical impact, with particular focuses on networked and cyber-physical systems.
 
 My past research spans the areas of intelligent sensing, cyber-physical security, internet of things, network configuration management and their intersection with machine learning techniques.
-Relevant papers have been published in conferences in the fields of computer networks, ubiquitous computing, and machine learning, including SIGCOMM/UBICOMP/AAAI/INFOCOM/USENIX Security.
+Relevant papers have been published in conferences in the fields of computer networks, ubiquitous computing, and machine learning, including SIGCOMM/UBICOMP/AAAI/INFOCOM/USENIX Security/....
 
 I am currently interested in exploring the practical challenges and requirements encountered in the design, management, and evolution of networks and cyber-physical systems. My goal is to utilize cutting-edge technologies like artificial intelligence to develop supportive frameworks, systems, and algorithms, which aim to achieve a range of objectives, including but not limited to:
 
@@ -37,9 +40,6 @@ I am currently interested in exploring the practical challenges and requirements
 - Achieve system behavior management based on specification requirements.
 - Streamline the complexity of cognition and interaction in the design, management, and evolution of networks and cyber-physical systems.
 - etc...
-
-I am always welcome motivated PhD/MPhil/RA/Visiting students to work with me at HKUST(GZ).
-The up-to-date recruitment details can be found [here](https://www.chenhuangxun.com/recruitment/).
 
 I also keep open-minded to cross-disciplinary problem domains and look forward to academic collaboration. Email me if you'd like to chat.
 
@@ -51,6 +51,6 @@ I also keep open-minded to cross-disciplinary problem domains and look forward t
 
 ## News
 
-- [20/09/2023] RIStealth and RIScan are accepted to SenSys 2023. 
+- [20/09/2023] RIStealth and RIScan are accepted to SenSys 2023.
 - [15/08/2023] Joining HKUST-GZ as an Assistant Professor. New journey :)
 <!-- - [10/08/2023] Last Day in Huawei Hong Kong.  -->
