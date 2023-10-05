@@ -6,6 +6,8 @@ author_profile: true
 
 **Assistant Professor** at IoT Thrust, Information Hub, HKUST-GZ (Aug. 2023 - now)
 
+- INFH 5000: Information Science and Technology: Essentials and Trends [Fall 2023]
+
 **Researcher** at _Theory Lab, 2012 Labs, Huawei_ (Oct. 2020 - Aug. 2023)
 
 - **Main Duty**:
@@ -19,8 +21,8 @@ author_profile: true
 
 **Teaching Assistant** at _HKUST_ (2015 - 2018)
 
-- COMP4621 Computer Communication Networks I
-- COMP2611 Computer Organization
+- COMP4621: Computer Communication Networks I
+- COMP2611: Computer Organization
 
 **Reviewer**:
 
