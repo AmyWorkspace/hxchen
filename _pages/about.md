@@ -51,6 +51,7 @@ I also keep open-minded to cross-disciplinary problem domains and look forward t
 
 ## News
 
+- [19/10/2023] RimSense is accepted to IMWUT/UbiComp 2024.  
 - [20/09/2023] RIStealth and RIScan are accepted to SenSys 2023.
 - [15/08/2023] Joining HKUST-GZ as an Assistant Professor. New journey :)
 <!-- - [10/08/2023] Last Day in Huawei Hong Kong.  -->

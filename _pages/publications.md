@@ -20,6 +20,7 @@ redirect_from:
 
 <big>**Journal and Magazine**</big>
 
+- **[ACM IMWUT/Ubicomp'24]** _Wentao Xie, **Huangxun Chen**, Jing Wei, Jin Zhang, Qian Zhang_, "[RimSense: Enabling Touch-based Interaction on Eyeglass Rim using Piezoelectric Sensors]()". (to appear)
 - **[IEEE IoTJ'23]** _Linfei Ge, Qian Zhang, Jing Zhang, **Huangxun CHEN**_, "[EHTrack: Earphone-Based Head Tracking via Only Acoustic Signals](https://ieeexplore.ieee.org/abstract/document/10192901)".
 - **[ACM IMWUT/Ubicomp'22]** _Yuxuan Zhou, **Huangxun Chen**, Chenyu Huang, Qian Zhang_, "[WiAdv: Practical and Robust Adversarial Attack WiFi-based Gesture Recognition System](https://dl.acm.org/doi/abs/10.1145/3534618)". [[paper]](https://amyworkspace.github.io/hxchen/files/ubicomp22-wiadv.pdf)
 - **[IEEE IoTJ'21]** _**Huangxun Chen**, Qianyi Huang, Chenyu Huang, Chenchen Liu, Tony Xiao Han, Qian Zhang_, "[SecurePilot: Improving Wireless Security of Single-Antenna IoT Devices](https://ieeexplore.ieee.org/document/9427993/)". [[paper]](https://amyworkspace.github.io/hxchen/files/iotj21-securepilot.pdf)
@@ -31,8 +32,8 @@ redirect_from:
 
 <big>**Conference**</big>
 
-- **[ACM SenSys'23]** _Yuxuan Zhou, Chenggao Li, **Huangxun Chen**, Qian Zhang_, "[RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface]()". (to appear)
-- **[ACM SenSys'23]** _Chenggao Li, Qianyi Huang, Yuxuan Zhou, Yandao Huang, Qingyong Hu, **Huangxun Chen**, Qian Zhang_, "[RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi]()". (to appear) 
+- **[ACM SenSys'23]** _Yuxuan Zhou, Chenggao Li, **Huangxun Chen**, Qian Zhang_, "[RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface](https://sensys.acm.org/2023/program/)". [[paper]](https://amyworkspace.github.io/hxchen/files/sensys23-ristealth.pdf)
+- **[ACM SenSys'23]** _Chenggao Li, Qianyi Huang, Yuxuan Zhou, Yandao Huang, Qingyong Hu, **Huangxun Chen**, Qian Zhang_, "[RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi](https://sensys.acm.org/2023/program/)". [[paper]](https://amyworkspace.github.io/hxchen/files/sensys23-riscan.pdf)
 - **[IEEE INFOCOM'23]** _Qingyong Hu, Hua Kang, **Huangxun Chen**, Qianyi Huang, Qian Zhang, Min Cheng_, "[CSI-StripeFormer: Exploiting Stripe Features for CSI Compression in Massive MIMO System](https://infocom.info/day/3/track/Track%20B)". [[paper]](https://amyworkspace.github.io/hxchen/files/infocom23-csistripeformer.pdf)
 - **[ACM SIGCOMM'22]** _**Huangxun Chen**, Yukai Miao, Li Chen, Haifeng Sun, Hong Xu, Libin Liu, Gong Zhang, Wei Wang_, "[Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim](https://dl.acm.org/doi/10.1145/3544216.3544244)". [[paper]](https://amyworkspace.github.io/hxchen/files/sigcomm22-nassim.pdf) [[slide]](https://amyworkspace.github.io/hxchen/files/sigcomm22-nassim-slide.pdf) [[dataset]](https://github.com/AmyWorkspace/nassim) _<font color=red>Best Paper Award!</font>_
 - **[USENIX Security'22]** _Zhiwei Wang, Yihui Yan, Yueli Yan, **Huangxun Chen**, Zhice Yang_, "[CamShield: Securing Smart Cameras through Physical Replication and
