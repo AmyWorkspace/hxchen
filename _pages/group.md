@@ -10,7 +10,7 @@ author_profile: true
 - Siyuan Liu, 2024.9-, currently RA
 - Xudong Zhang, 2024.9- 
 
-<big>**Mphil Students@[RedBird Program](https://vptlo.hkust-gz.edu.cn/rbm/)**</big>
+<big>**Mphil Students[@RedBird Program](https://vptlo.hkust-gz.edu.cn/rbm/)**</big>
 
 - Chenyu Liu, 2023.9-
 - Zihan Gan, 2023.11-
