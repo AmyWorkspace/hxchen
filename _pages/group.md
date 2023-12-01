@@ -7,10 +7,10 @@ author_profile: true
 <big>**Ph.D. Students**</big>
 
 - Yansong Sun, 2024.1-, co-supervised with Prof. Dirk Kutscher
-- Siyuan Liu, 2024.9-, (currently RA)
+- Siyuan Liu, 2024.9-, currently RA
 - Xudong Zhang, 2024.9- 
 
-<big>**Mphil Students ([RedBird Program](https://vptlo.hkust-gz.edu.cn/rbm/))**</big>
+<big>**Mphil Students@[RedBird Program](https://vptlo.hkust-gz.edu.cn/rbm/)**</big>
 
 - Chenyu Liu, 2023.9-
 - Zihan Gan, 2023.11-
