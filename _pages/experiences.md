@@ -4,7 +4,7 @@ permalink: /experiences/
 author_profile: true
 ---
 
-<big>**Work Resume**</big>
+## Work Resume
 
 **Assistant Professor** at IoT Thrust, Information Hub, HKUST-GZ (Aug. 2023 - now)
 
@@ -19,7 +19,7 @@ author_profile: true
 - Leaded the network configuration automated generation/translation project. (Apr. 2021 - Jul. 2023)
 - Worked on co-located optical cable inference in the optical network. (Oct. 2020 - Mar. 2021)
 
-<big>**Teaching Experience**</big>
+## Teaching Experience
 
 **Instructor** at _HKUST(GZ)_ (2023 - now)
 
@@ -32,7 +32,7 @@ author_profile: true
 - COMP4621: Computer Communication Networks I
 - COMP2611: Computer Organization
 
-<big>**Academic Service**</big>
+## Academic Service
 
 **Reviewer**:
 
