@@ -1,6 +1,6 @@
 ---
 title: "&#32;"
-layout: archive
+layout: noheader
 permalink: /group/
 author_profile: true
 ---
