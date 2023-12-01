@@ -1,6 +1,5 @@
 ---
 title: "Group"
-layout: noheader
 permalink: /group/
 author_profile: true
 ---
