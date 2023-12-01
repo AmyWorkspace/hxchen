@@ -1,4 +1,5 @@
 ---
+title: None
 permalink: /group/
 author_profile: true
 ---
