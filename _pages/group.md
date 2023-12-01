@@ -1,5 +1,6 @@
 ---
 title: "&#32;"
+layout: no_header
 permalink: /group/
 author_profile: true
 ---
