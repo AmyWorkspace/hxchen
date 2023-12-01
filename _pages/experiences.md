@@ -12,7 +12,7 @@ author_profile: true
 
 **Researcher** at _Theory Lab, 2012 Labs, Huawei_ (Oct. 2020 - Aug. 2023)
 
-- **Main Duty**:
+- Main Duty:
 
   - Formulate and execute research projects to build proof-of-concept systems
   - Define/lead research agenda and collaborate with academia
