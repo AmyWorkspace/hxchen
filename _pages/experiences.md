@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 <big>**Work Resume**</big>
-___
+
+---
 
 **Assistant Professor** at IoT Thrust, Information Hub, HKUST-GZ (Aug. 2023 - now)
 
@@ -21,7 +22,8 @@ ___
 - Worked on co-located optical cable inference in the optical network. (Oct. 2020 - Mar. 2021)
 
 <big>**Teaching Experience**</big>
-___
+
+---
 
 **Instructor** at _HKUST(GZ)_ (2023 - now)
 
@@ -35,7 +37,8 @@ ___
 - COMP2611: Computer Organization
 
 <big>**Academic Service**</big>
-___
+
+---
 
 **Reviewer**:
 
