@@ -1,5 +1,5 @@
 ---
-title: None
+title: ""
 permalink: /group/
 author_profile: true
 ---
