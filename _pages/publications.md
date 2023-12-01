@@ -21,8 +21,8 @@ redirect_from:
 <big>**Journal and Magazine**</big>
 
 - **[ACM IMWUT/Ubicomp'24]** _Wentao Xie, **Huangxun Chen**, Jing Wei, Jin Zhang, Qian Zhang_, "[RimSense: Enabling Touch-based Interaction on Eyeglass Rim using Piezoelectric Sensors]()". (to appear)
-- **[IEEE IoTJ'23]** _Linfei Ge, Qian Zhang, Jing Zhang, **Huangxun CHEN**_, "[EHTrack: Earphone-Based Head Tracking via Only Acoustic Signals](https://ieeexplore.ieee.org/abstract/document/10192901)".
-- **[ACM IMWUT/Ubicomp'22]** _Yuxuan Zhou, **Huangxun Chen**, Chenyu Huang, Qian Zhang_, "[WiAdv: Practical and Robust Adversarial Attack WiFi-based Gesture Recognition System](https://dl.acm.org/doi/abs/10.1145/3534618)". [[paper]](https://amyworkspace.github.io/hxchen/files/ubicomp22-wiadv.pdf)
+- **[IEEE IoTJ'23]** _Linfei Ge, Qian Zhang, Jing Zhang, **Huangxun Chen**_, "[EHTrack: Earphone-Based Head Tracking via Only Acoustic Signals](https://ieeexplore.ieee.org/abstract/document/10192901)". [[paper]](https://amyworkspace.github.io/hxchen/files/iotj23-ehtrack.pdf)
+- **[ACM IMWUT/Ubicomp'22]** _Yuxuan Zhou, **Huangxun Chen**, Chenyu Huang, Qian Zhang_, "[WiAdv: Practical and Robust Adversarial Attack against WiFi-based Gesture Recognition System](https://dl.acm.org/doi/abs/10.1145/3534618)". [[paper]](https://amyworkspace.github.io/hxchen/files/ubicomp22-wiadv.pdf)
 - **[IEEE IoTJ'21]** _**Huangxun Chen**, Qianyi Huang, Chenyu Huang, Chenchen Liu, Tony Xiao Han, Qian Zhang_, "[SecurePilot: Improving Wireless Security of Single-Antenna IoT Devices](https://ieeexplore.ieee.org/document/9427993/)". [[paper]](https://amyworkspace.github.io/hxchen/files/iotj21-securepilot.pdf)
 - **[IEEE IoTJ'21]** _Chenyu Huang, Yongjun Zhao, **Huangxun Chen**, Xu Wang, Qian Zhang, Yanjiao Chen, Huaxiong Wang, Kwok-Yan Lam_, "[ZkRep: A Privacy-Preserving Scheme for Reputation-Based Blockchain System](https://ieeexplore.ieee.org/abstract/document/9521236)".
 - **[IEEE Network'20]** _Qianyi Huang, **Huangxun Chen**, Qian Zhang_, "[Joint Design of Sensing and Communication Systems for Smart Homes](https://ieeexplore.ieee.org/document/9143269)".

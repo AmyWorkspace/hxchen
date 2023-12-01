@@ -4,9 +4,9 @@ permalink: /experiences/
 author_profile: true
 ---
 
-**Assistant Professor** at IoT Thrust, Information Hub, HKUST-GZ (Aug. 2023 - now)
+<big>**Work Resume**</big>
 
-- INFH 5000: Information Science and Technology: Essentials and Trends [Fall 2023]
+**Assistant Professor** at IoT Thrust, Information Hub, HKUST-GZ (Aug. 2023 - now)
 
 **Researcher** at _Theory Lab, 2012 Labs, Huawei_ (Oct. 2020 - Aug. 2023)
 
@@ -19,10 +19,20 @@ author_profile: true
 - Leaded the network configuration automated generation/translation project. (Apr. 2021 - Jul. 2023)
 - Worked on co-located optical cable inference in the optical network. (Oct. 2020 - Mar. 2021)
 
+<big>**Teaching Experience**</big>
+
+**Instructor** at _HKUST(GZ)_ (2023 - now)
+
+- IOTA 5202: Efficient Machine Learning for Resource Constrained Environments [Spring 2024]
+- IOTA 5503: Systems Security and Privacy: Theory and Applications [Spring 2024, co-instruction with Prof. TYSON, Gareth John]
+- INFH 5000: Information Science and Technology: Essentials and Trends (IoT Module) [Fall 2023]
+
 **Teaching Assistant** at _HKUST_ (2015 - 2018)
 
 - COMP4621: Computer Communication Networks I
 - COMP2611: Computer Organization
+
+<big>**Academic Service**</big>
 
 **Reviewer**:
 

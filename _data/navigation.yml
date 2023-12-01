@@ -1,7 +1,9 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /projects/
+#  - title: "Projects"
+#    url: /projects/
+  - title: "Group"
+    url: /group/
 
   - title: "Publications"
     url: /publications/
@@ -12,10 +14,10 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Honers&Awards"
+  - title: "Awards"
     url: /awards/
 
-  - title: "Miscellaneous"
+  - title: "Misc."
     url: /miscellaneous/
 
   # - title: "Blog Posts"
