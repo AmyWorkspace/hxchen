@@ -18,7 +18,7 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %} -->
 
-<big>**Journal and Magazine**</big>
+<big>**Journal and Magazine Papers**</big>
 
 - **[ACM IMWUT/Ubicomp'24]** _Wentao Xie, **Huangxun Chen**, Jing Wei, Jin Zhang, Qian Zhang_, "[RimSense: Enabling Touch-based Interaction on Eyeglass Rim using Piezoelectric Sensors]()". (to appear)
 - **[IEEE IoTJ'23]** _Linfei Ge, Qian Zhang, Jing Zhang, **Huangxun Chen**_, "[EHTrack: Earphone-Based Head Tracking via Only Acoustic Signals](https://ieeexplore.ieee.org/abstract/document/10192901)". [[paper]](https://amyworkspace.github.io/hxchen/files/iotj23-ehtrack.pdf)
@@ -30,7 +30,7 @@ redirect_from:
 - **[IEEE IoTJ'19]** _**Huangxun Chen**, Wei Wang, Jin Zhang, Qian Zhang_, "[EchoFace: Acoustic Sensor-Based Media Attack Detection for Face Authentication](https://ieeexplore.ieee.org/document/8932608/)". [[paper]](https://amyworkspace.github.io/hxchen/files/iotj19-echoface.pdf)
 - **[ACM IMWUT/Ubicomp'18]** _Chenyu Huang, **Huangxun Chen**, Lin Yang, Qian Zhang_, "[BreathLive: Liveness Detection for Heart Sound Authentication with Deep Breathing](https://dl.acm.org/doi/10.1145/3191744)". [[paper]](https://amyworkspace.github.io/hxchen/files/ubicomp18-breathlive.pdf) [[slide]](https://amyworkspace.github.io/hxchen/files/ubicomp18-breathlive-slide.pdf)
 
-<big>**Conference**</big>
+<big>**Conference Papers**</big>
 
 - **[ACM SenSys'23]** _Yuxuan Zhou, Chenggao Li, **Huangxun Chen**, Qian Zhang_, "[RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface](https://sensys.acm.org/2023/program/)". [[paper]](https://amyworkspace.github.io/hxchen/files/sensys23-ristealth.pdf)
 - **[ACM SenSys'23]** _Chenggao Li, Qianyi Huang, Yuxuan Zhou, Yandao Huang, Qingyong Hu, **Huangxun Chen**, Qian Zhang_, "[RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi](https://sensys.acm.org/2023/program/)". [[paper]](https://amyworkspace.github.io/hxchen/files/sensys23-riscan.pdf)

@@ -4,7 +4,8 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-## Inspiring Articles
+<big>**Inspiring Articles**</big>
+
 - [Networking on the Network](https://vlsicad.ucsd.edu/Research/Advice/network.html#section1)
 - [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
 - [Ph.D.s from the Faculty's Perspective](https://cacm.acm.org/blogs/blog-cacm/157012-phds-from-the-facultys-perspective/fulltext)
