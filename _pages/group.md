@@ -1,5 +1,4 @@
 ---
-title: "Group"
 permalink: /group/
 author_profile: true
 ---
@@ -17,8 +16,8 @@ author_profile: true
 
 ## Research Assistants/Visitors
 
-- **Yimo Deng**, 2023.9-
-- **Si Liao**, 2023.10-, visiting Ph.D. student from Prof. Zhice Yang's group
-- **Qihang Cao**, 2023.10-
+- Yimo Deng**, 2023.9-
+- Si Liao, 2023.10-, visiting Ph.D. student from Prof. Zhice Yang's group
+- Qihang Cao, 2023.10-
 
 
