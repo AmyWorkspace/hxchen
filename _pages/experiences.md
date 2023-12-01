@@ -6,7 +6,7 @@ author_profile: true
 
 <big>**Work Resume**</big>
 
-- **Assistant Professor** at IoT Thrust, Information Hub, HKUST-GZ (Aug. 2023 - now)
+- **Assistant Professor** at _IoT Thrust, Information Hub, HKUST-GZ_ (Aug. 2023 - now)
 
 - **Researcher** at _Theory Lab, 2012 Labs, Huawei_ (Oct. 2020 - Aug. 2023)
 
