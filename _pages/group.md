@@ -1,5 +1,6 @@
 ---
 title: "Group"
+layout: archive
 permalink: /group/
 author_profile: true
 ---
