@@ -27,5 +27,5 @@ author_profile: true
   - IEEE MASS, Oct. 2021, Virtual Event
 - ECGadv: Generating Adversarial Electrocardiogram to Misguide Arrhythmia Classification System
   - AAAI, Feb. 2020, New York, USA
-- DriveSafe Inspector: A Wearable-Based Fine-Grained Technique for Driver Hand Position Detectionß
+- DriveSafe Inspector: A Wearable-Based Fine-Grained Technique for Driver Hand Position Detection
   - IEEE Globecom, Dec. 2018, Abu Dhabi, UAE
