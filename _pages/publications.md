@@ -32,6 +32,7 @@ redirect_from:
 
 <big>**Conference Papers**</big>
 
+- **[IEEE INFOCOM'24]** _Hua Kang, Qingyong Hu, **Huangxun Chen**, Qianyi Huang, Qian Zhang, Min Cheng_, "[Cross-Shaped Separated Spatial-Temporal UNet Transformer for Accurate Channel Prediction](https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference)". (to appear)
 - **[ACM SenSys'23]** _Yuxuan Zhou, Chenggao Li, **Huangxun Chen**, Qian Zhang_, "[RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface](https://sensys.acm.org/2023/program/)". [[paper]](https://amyworkspace.github.io/hxchen/files/sensys23-ristealth.pdf)
 - **[ACM SenSys'23]** _Chenggao Li, Qianyi Huang, Yuxuan Zhou, Yandao Huang, Qingyong Hu, **Huangxun Chen**, Qian Zhang_, "[RIScan: RIS-aided Multi-user Indoor Localization Using COTS Wi-Fi](https://sensys.acm.org/2023/program/)". [[paper]](https://amyworkspace.github.io/hxchen/files/sensys23-riscan.pdf)
 - **[IEEE INFOCOM'23]** _Qingyong Hu, Hua Kang, **Huangxun Chen**, Qianyi Huang, Qian Zhang, Min Cheng_, "[CSI-StripeFormer: Exploiting Stripe Features for CSI Compression in Massive MIMO System](https://infocom.info/day/3/track/Track%20B)". [[paper]](https://amyworkspace.github.io/hxchen/files/infocom23-csistripeformer.pdf)

@@ -6,8 +6,8 @@ author_profile: true
 
 <big>**Awards and Honors**</big>
 
-- ACM SIGCOMM 2022 Best Paper Award
-- Innovation Pioneer (Second Prize), Huawei Central Research Institute (Aug. 2022, Aug. 2021)
+- *ACM SIGCOMM 2022 Best Paper Award*
+- *Innovation Pioneer (Second Prize), Huawei Central Research Institute* (Aug. 2022, Aug. 2021)
 - *Research Travel Grant, HKUST* (Mar. 2020)
 - *HKPFS Conference Travel Grant, HKUST* (Dec. 2018)
 - *Hong Kong PhD Fellowship, HKUST* (2015-2019)
