@@ -19,19 +19,23 @@ author_profile: true
 
 - **Instructor** at _HKUST(GZ)_ (2023 - now)
 
-  - IOTA 5202: Efficient Machine Learning for Resource Constrained Environments [Spring 2024]
-  - IOTA 5503: Systems Security and Privacy: Theory and Applications [Spring 2024, co-instruction with Prof. TYSON, Gareth John]
-  - INFH 5000: Information Science and Technology: Essentials and Trends (IoT Module) [Fall 2023]
+  - [IOTA 5202] Efficient Machine Learning for Resource Constrained Environments [Spring 2024]
+  - [IOTA 5503] Systems Security and Privacy: Theory and Applications [Spring 2024, co-instruction with Prof. TYSON, Gareth John]
+  - [INFH 5000] Information Science and Technology: Essentials and Trends (IoT Module) [Fall 2023]
 
 - **Teaching Assistant** at _HKUST_ (2015 - 2018)
 
-  - COMP4621: Computer Communication Networks I
-  - COMP2611: Computer Organization
+  - [COMP4621] Computer Communication Networks I
+  - [COMP2611] Computer Organization
 
 ---
 
 <big>**Academic Service**</big>
 
+- **TPC Member**:
+
+  - IEEE ICDCS (International Conference on Distributed Computing Systems) 2024
+  
 - **Reviewer**:
 
   - ACM IMWUT/Ubicomp (Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies)
