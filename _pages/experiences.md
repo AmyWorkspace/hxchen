@@ -34,8 +34,12 @@ author_profile: true
 
 - **TPC Member**:
 
-  - IEEE ICDCS (International Conference on Distributed Computing Systems) 2024
+  - IEEE ICDCS (International Conference on Distributed Computing Systems) 2024 [[link]](https://icdcs2024.icdcs.org/)
+
+- **Publicity Chair**:
   
+  - The 6th International Conference on Science of Cyber Security, SciSec 2024 [[link]](https://scisec.org/)
+
 - **Reviewer**:
 
   - ACM IMWUT/Ubicomp (Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies)
