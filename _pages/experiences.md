@@ -38,7 +38,7 @@ author_profile: true
 
 - **Publicity Chair**:
   
-  - The 6th International Conference on Science of Cyber Security, SciSec 2024 [[link]](https://scisec.org/)
+  - The 6th International Conference on Science of Cyber Security SciSec 2024 [[link]](https://scisec.org/)
 
 - **Reviewer**:
 
