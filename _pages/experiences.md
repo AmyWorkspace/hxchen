@@ -33,8 +33,11 @@ author_profile: true
 <big>**Academic Service**</big>
 
 - **TPC Member**:
-
+  
+  - IEEE/ACM IWQoS (International Symposium on Quality of Service) 2024 [[link]](https://iwqos2024.ieee-iwqos.org/)
+  - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI for Social Good 2024 [[link]](https://ijcai24.org/call-for-papers-and-projects-ai-and-social-good/)
   - IEEE ICDCS (International Conference on Distributed Computing Systems) 2024 [[link]](https://icdcs2024.icdcs.org/)
+  - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI for Social Good 2023 [[link]](https://ijcai-23.org/ai-for-social-good-pcs/)
 
 - **Publicity Chair**:
   
@@ -46,7 +49,7 @@ author_profile: true
   - IEEE IoTJ (Internet of Things Journal)
   - IEEE TDSC (Transactions on Dependable and Secure Computing)
   - IEEE TCC (Transactions on Cloud Computing)
-  - IEEE IJCAI (The International Joint Conference on Artificial Intelligence)
-  - IEEE ICASSP (The International Conference on Acoustics, Speech, & Signal Processing)
+  - IEEE IJCAI (International Joint Conference on Artificial Intelligence)
+  - IEEE ICASSP (International Conference on Acoustics, Speech, & Signal Processing)
 
 ---
