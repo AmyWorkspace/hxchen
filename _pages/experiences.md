@@ -21,7 +21,7 @@ author_profile: true
 
   - [IOTA 5202] Efficient Machine Learning for Resource Constrained Environments [Spring 2024]
   - [IOTA 5503] Systems Security and Privacy: Theory and Applications [Spring 2024, co-instruction with Prof. TYSON, Gareth John]
-  - [INFH 5000] Information Science and Technology: Essentials and Trends (IoT Module) [Fall 2023]
+  - [INFH 5000] Information Science and Technology: Essentials and Trends (IoT Module) [Fall 2023/Spring 2024]
 
 - **Teaching Assistant** at _HKUST_ (2015 - 2018)
 

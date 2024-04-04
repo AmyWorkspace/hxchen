@@ -18,7 +18,7 @@ author_profile: true
 
 <big>**Research Assistants/Visitors**</big>
 
-- Yimo Deng, 2023.9-2024.3
+- Yimo Deng, 2023.9-2024.5
 - Si Liao, 2023.10-2024.8, visiting Ph.D. student from Prof. Zhice Yang's group
 - Qihang Cao, 2023.10-2024.8
 - Yanjie Min, 2024.2-2024.5
