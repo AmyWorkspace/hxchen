@@ -10,7 +10,7 @@ locale: "en-US"
 title: "Huangxun CHEN's Homepage"
 title_separator: "-"
 name: &name "Huangxun CHEN"
-description: &description "AssitantProfessor@HKUST-GZ"
+description: &description "AssitantProfessor@HKUST(GZ)"
 url: https://amyworkspace.github.io/hxchen/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "amyworkspace.github.io/hxchen/"
@@ -80,7 +80,7 @@ analytics:
 author:
   name: "Huangxun CHEN"
   avatar: "chx.jpg"
-  bio: "Assistant Professor, HKUST-GZ | Researcher, Huawei HKRC | Ph.D., HKUST | B.S., SJTU "
+  bio: "Assistant Professor, HKUST(GZ) | Researcher, Huawei HKRC | Ph.D., HKUST | B.S., SJTU "
   location: "Guangzhou, China"
   employer:
   pubmed: #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
