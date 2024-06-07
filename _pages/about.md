@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently serving as an Assistant Professor in the [Internet of Things Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/) at the [Information Hub](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/) of the [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
-Before joining HKUST-GZ, I worked as a Researcher at Huawei Hong Kong Research Center from October 2020 to August 2023. I received my Ph.D. degree in Computer Science and Engineering from the Hong Kong University of Science and Technology in August 2020, under the supervision of [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/). I obtained my B.S. degree in Computer Science and Technology from Shanghai Jiaotong University in 2015.
+I am currently serving as an Assistant Professor in [Internet of Things (IoT) Thrust](https://hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/), Information Hub, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
+Before joining HKUST(GZ), I worked as a Researcher at Huawei Hong Kong Research Center (HKRC) from 2020 to 2023. 
+I received my Ph.D. degree in Computer Science and Engineering from Hong Kong University of Science and Technology (HKUST) in 2020, under the supervision of [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/). 
+I obtained my B.S. degree in Computer Science and Technology from Shanghai Jiao Tong University in 2015.
 
 My Chinese name and its pronunciation are
 <ruby>
@@ -23,12 +25,20 @@ My Chinese name and its pronunciation are
 
 <!-- I always welcome motivated students to do long-term research with me. Email me if you'd like to chat! -->
 
-I always welcome motivated PhD/MPhil/RA/Visiting students to work with me at HKUST(GZ).
-The up-to-date recruitment details can be found [here](https://www.chenhuangxun.com/recruitment/).
 
 ## Research Interests
+- Ubiquitous Intelligence
+- Cyber-Physical Security
+- Intent‑driven System Operation and Management
+- AIoT (Artificial Intelligence of Things)
 
-I am broadly interested in challenging problems with practical impact, with particular focuses on networked and cyber-physical systems.
+I always welcome motivated PhD/MPhil/Research Interns/Visitors to work with me at HKUST(GZ).
+For the latest recruitment details, please visit [this link](https://www.chenhuangxun.com/recruitment/).
+
+I am broadly interested in challenging problems with practical impact, particularly in networked and cyber-physical systems, and also keep open-minded to cross-disciplinary problem domains. 
+Email me if you'd like to chat. 
+
+<!--
 
 My past research spans the areas of intelligent sensing, cyber-physical security, internet of things, network configuration management and their intersection with machine learning techniques.
 Relevant papers have been published in conferences in the fields of computer networks, ubiquitous computing, and machine learning, including SIGCOMM/UBICOMP/AAAI/INFOCOM/USENIX Security/....
@@ -39,14 +49,7 @@ I am currently interested in exploring the practical challenges and requirements
 - Achieve system behavior management based on specification requirements.
 - Streamline the complexity of cognition and interaction in the design, management, and evolution of networks and cyber-physical systems.
 - etc...
-
-I also keep open-minded to cross-disciplinary problem domains and look forward to academic collaboration. Email me if you'd like to chat.
-
-<!--
-- Network Configuration Management
-- Intelligent Sensing (Mobile/Wearable/Wireless Sensing)
-- Machine Learning Algorithms
-- Physical-layer Security  -->
+-->
 
 ## News
 

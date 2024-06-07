@@ -17,7 +17,7 @@ author_profile: true
 <big>**Talks and Presentations**</big>
 
 - Human-Cyber-Physics Synergy: From Human-Centered Computing to Human-Machine Collaboration
-  - HKUST-GZ IoT Thrust Seminar, May. 2023, Guangzhou, China [[event link]](https://mp.weixin.qq.com/s/hUb2uVfda-0A5nfbE5oLWw)
+  - HKUST(GZ) IoT Thrust Seminar, May. 2023, Guangzhou, China [[event link]](https://mp.weixin.qq.com/s/hUb2uVfda-0A5nfbE5oLWw)
 - Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim
   - HKUST CSE Award Papers Seminar, Nov. 2022, Virtual Event [[event link]](https://calendar.hkust.edu.hk/events/computer-science-and-engineering-award-papers-online-seminar)
   - IETF 115 (RTGWG), Nov. 2022, Virtual Event [[event link]](https://datatracker.ietf.org/doc/agenda-115-rtgwg/) [[video]](https://www.youtube.com/watch?v=d7KYdd1XX8w&list=PLC86T-6ZTP5ji_vvPbmRjTek-OvYffv7a&index=115&ab_channel=IETF-InternetEngineeringTaskForce)

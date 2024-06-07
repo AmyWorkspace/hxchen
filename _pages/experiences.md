@@ -6,9 +6,9 @@ author_profile: true
 
 <big>**Work Resume**</big>
 
-- **Assistant Professor** at _IoT Thrust, Information Hub, HKUST-GZ_ (Aug. 2023 - now)
+- **Assistant Professor** at _IoT Thrust, Information Hub, HKUST(GZ)_ (Aug. 2023 - now)
 
-- **Researcher** at _Theory Lab, 2012 Labs, Huawei_ (Oct. 2020 - Aug. 2023)
+- **Researcher** at _Theory Lab, 2012 Labs, HKRC, Huawei_ (Oct. 2020 - Aug. 2023)
 
   - Leaded the network configuration automated generation/translation project. (Apr. 2021 - Jul. 2023)
   - Worked on co-located optical cable inference in the optical network. (Oct. 2020 - Mar. 2021)
