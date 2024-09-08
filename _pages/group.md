@@ -6,8 +6,8 @@ author_profile: true
 
 <big>**Ph.D. Students**</big>
 
-- Siyuan Liu, 2024.9-, currently RA (B.S.@HITSZ)
-- Jinkang Li, 2024.9-, currently RA (B.S.@XJTU, M.S.@CUHK)
+- Siyuan Liu, 2024.9-, (B.S.@HITSZ)
+- Jinkang Li, 2024.9-, (B.S.@XJTU, M.S.@CUHK)
 - Xudong Zhang, 2024.9-, (B.S.@SUSTech)
 - Yansong Sun, 2024.1-, (B.S.@UESTC, M.S.@NTU, co-supervisor: Prof. Dirk Kutscher)
 
@@ -22,8 +22,3 @@ author_profile: true
 - Qihang Cao, 2023.10-2024.8 (B.S.@SDU, M.S.@SJTU)
 - Si Liao, 2023.10-2024.7 (B.S.@HUST, visiting Ph.D. student from Prof. Zhice Yang's group@ShanghaiTech)
 - Yimo Deng, 2023.9-2024.7 (B.S.@NEU)
-
-
-
-
-

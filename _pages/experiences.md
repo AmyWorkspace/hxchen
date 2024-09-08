@@ -19,9 +19,9 @@ author_profile: true
 
 - **Instructor** at _HKUST(GZ)_ (2023 - now)
 
-  - [IOTA 5202] Efficient Machine Learning for Resource Constrained Environments [Spring 2024]
+  - [IOTA 5202] Efficient Machine Learning for Resource Constrained Environments [Spring 2024/Fall 2024]
   - [IOTA 5503] Systems Security and Privacy: Theory and Applications [Spring 2024, co-instruction with Prof. TYSON, Gareth John]
-  - [INFH 5000] Information Science and Technology: Essentials and Trends (IoT Module) [Fall 2023/Spring 2024]
+  - [INFH 5000] Information Science and Technology: Essentials and Trends (IoT Module) [Fall 2023/Spring 2024/Fall 2024]
 
 - **Teaching Assistant** at _HKUST_ (2015 - 2018)
 
@@ -32,15 +32,19 @@ author_profile: true
 
 <big>**Academic Service**</big>
 
+- **Executive Committee Member**:
+
+  - CCF Technical Committee on Pervasive Computing (TCPC) [[link]](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCPC/)
+
 - **TPC Member**:
-  
+
   - IEEE/ACM IWQoS (International Symposium on Quality of Service) 2024 [[link]](https://iwqos2024.ieee-iwqos.org/)
   - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI for Social Good 2024 [[link]](https://ijcai24.org/call-for-papers-and-projects-ai-and-social-good/)
   - IEEE ICDCS (International Conference on Distributed Computing Systems) 2024 [[link]](https://icdcs2024.icdcs.org/)
   - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI for Social Good 2023 [[link]](https://ijcai-23.org/ai-for-social-good-pcs/)
 
 - **Publicity Chair**:
-  
+
   - The 6th International Conference on Science of Cyber Security SciSec 2024 [[link]](https://scisec.org/)
 
 - **Reviewer**:
@@ -51,5 +55,6 @@ author_profile: true
   - IEEE TCC (Transactions on Cloud Computing)
   - IEEE IJCAI (International Joint Conference on Artificial Intelligence)
   - IEEE ICASSP (International Conference on Acoustics, Speech, & Signal Processing)
+  - IEEE Network
 
 ---

@@ -32,6 +32,8 @@ redirect_from:
 
 <big>**Conference Papers**</big>
 
+- **[IEEE ACSAC'24]** _Si Liao, **Huangxun Chen**, Zhice Yang_, "[SecurityHub: Electromagnetic Fingerprinting USB Peripherals using Backscatter-assisted Commodity Hardware]()". (to appear)
+- **[ACM SIGCOMM'24 Poster]** _Wenlong Ding, Jianqiang Li, Zhixiong Niu, **Huangxun Chen**, Hong Xu_, "[Automating Network Configuration with Natural Language Intents](https://dl.acm.org/doi/10.1145/3672202.3673721)". [[paper]](https://amyworkspace.github.io/hxchen/files/sigcomm24poster-etna.pdf)
 - **[IEEE S&P'24]** _Yuelin Liu, **Huangxun Chen**, Zhice Yang_, "[Enforcing End-to-end Security for Remote Conferencing](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a202/1WPcYvAYYaA)". [[paper]](https://amyworkspace.github.io/hxchen/files/sp24-mTunnel.pdf)
 - **[IEEE INFOCOM'24]** _Hua Kang, Qingyong Hu, **Huangxun Chen**, Qianyi Huang, Qian Zhang, Min Cheng_, "[Cross-Shaped Separated Spatial-Temporal UNet Transformer for Accurate Channel Prediction](https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference)". [[paper]](https://amyworkspace.github.io/hxchen/files/infocom24-cs3tunet.pdf)
 - **[ACM SenSys'23]** _Yuxuan Zhou, Chenggao Li, **Huangxun Chen**, Qian Zhang_, "[RIStealth: Practical and Covert Physical-Layer Attack against WiFi-based Intrusion Detection via Reconfigurable Intelligent Surface](https://sensys.acm.org/2023/program/)". [[paper]](https://amyworkspace.github.io/hxchen/files/sensys23-ristealth.pdf)
