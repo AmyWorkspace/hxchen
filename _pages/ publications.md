@@ -22,7 +22,8 @@ redirect_from:
 
 <big>**2024**</big>
 
-- **[IEEE ACSAC'24]** _Si Liao, **Huangxun Chen**, Zhice Yang_, "[SecurityHub: Electromagnetic Fingerprinting USB Peripherals using Backscatter-assisted Commodity Hardware]()". [[paper]](https://amyworkspace.github.io/hxchen/files/acsac24-securityhub.pdf)
+- **[ACM IMWUT/Ubicomp'24]** _Qingyong Hu, Qian Zhang, Hao Lu, Shun Wu, Yuxuan Zhou, Qianyi Huang, **Huangxun Chen**, Yingcong Chen, Ni Zhao_, "[Contactless Arterial Blood Pressure Waveform Monitoring with mmWave Radar](https://dl.acm.org/doi/10.1145/3699781)". [[paper]](https://amyworkspace.github.io/hxchen/files/ubicomp24-wavebp.pdf)
+- **[IEEE ACSAC'24]** _Si Liao, **Huangxun Chen**, Zhice Yang_, "[SecurityHub: Electromagnetic Fingerprinting USB Peripherals using Backscatter-assisted Commodity Hardware](https://www.openconf.org/acsac2024/modules/request.php?module=oc_program&action=program.php&p=program)". [[paper]](https://amyworkspace.github.io/hxchen/files/acsac24-securityhub.pdf)
 - **[IEEE INFOCOM'24]** _Hua Kang, Qingyong Hu, **Huangxun Chen**, Qianyi Huang, Qian Zhang, Min Cheng_, "[Cross-Shaped Separated Spatial-Temporal UNet Transformer for Accurate Channel Prediction](https://infocom2024.ieee-infocom.org/program/accepted-paper-list-main-conference)". [[paper]](https://amyworkspace.github.io/hxchen/files/infocom24-cs3tunet.pdf)
 - **[IEEE S&P'24]** _Yuelin Liu, **Huangxun Chen**, Zhice Yang_, "[Enforcing End-to-end Security for Remote Conference Applications](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a202/1WPcYvAYYaA)". [[paper]](https://amyworkspace.github.io/hxchen/files/sp24-mTunnel.pdf)
 - **[ACM IMWUT/Ubicomp'24]** _Wentao Xie, **Huangxun Chen**, Jing Wei, Jin Zhang, Qian Zhang_, "[RimSense: Enabling Touch-based Interaction on Eyeglass Rim using Piezoelectric Sensors](https://dl.acm.org/doi/10.1145/3631456)". [[paper]](https://amyworkspace.github.io/hxchen/files/ubicomp24-rimsense.pdf)

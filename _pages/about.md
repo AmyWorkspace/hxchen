@@ -53,6 +53,7 @@ I am currently interested in exploring the practical challenges and requirements
 
 ## News
 
+- [26/09/2024] waveBP is accepted to IMWUT/UbiComp 2024.
 - [20/08/2024] SecurityHub is accepted to ACSAC 2024.
 - [09/03/2024] mTunnel is accepted to S&P 2024.
 - [01/12/2023] CS3T-UNet is accepted to INFOCOM 2024.
