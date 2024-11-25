@@ -14,7 +14,7 @@ author_profile: true
 
 <big>**Mphil Students[@RedBird Program](https://vptlo.hkust-gz.edu.cn/rbm/)**</big>
 
-- Zihan Gan, 2023.11-2025.6 (B.S.@HUST)
+- Zihan Gan, 2023.9-2025.6 (B.S.@HUST)
 - Chenyu Liu, 2023.9-2025.6 (B.S.@BUPT)
 
 <big>**Research Assistants/Visitors/Interns**</big>
