@@ -53,6 +53,8 @@ I am currently interested in exploring the practical challenges and requirements
 
 ## News
 
+- [10/12/2024] OVE is accepted to AAAI 2025.
+- [06/12/2024] EMScatter is accepted to INFOCOM 2025.
 - [26/09/2024] waveBP is accepted to IMWUT/UbiComp 2024.
 - [20/08/2024] SecurityHub is accepted to ACSAC 2024.
 - [09/03/2024] mTunnel is accepted to S&P 2024.

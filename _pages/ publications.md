@@ -20,6 +20,11 @@ redirect_from:
 
 <big>**Selected Publications**</big>
 
+<big>**2025**</big>
+
+- **[AAAI'25]** _Qihang Cao, **Huangxun Chen**_, "[ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Object]()". (to appear)
+- **[IEEE INFOCOM'25]** _Si Liao, Fengxu Yang, **Huangxun Chen**, Zhice Yang_, "[Enable Autonomous Backscatter in Everyday Devices]()". (to appear)
+
 <big>**2024**</big>
 
 - **[ACM IMWUT/Ubicomp'24]** _Qingyong Hu, Qian Zhang, Hao Lu, Shun Wu, Yuxuan Zhou, Qianyi Huang, **Huangxun Chen**, Yingcong Chen, Ni Zhao_, "[Contactless Arterial Blood Pressure Waveform Monitoring with mmWave Radar](https://dl.acm.org/doi/10.1145/3699781)". [[paper]](https://amyworkspace.github.io/hxchen/files/ubicomp24-wavebp.pdf)
