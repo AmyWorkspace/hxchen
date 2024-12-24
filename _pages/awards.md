@@ -6,7 +6,8 @@ author_profile: true
 
 <big>**Awards and Honors**</big>
 
-- Guangdong Pearl River Top Young Talent Program
+- National-Level (MoE) Overseas Talent
+- Guangdong Pearl-River Top Young Talent
 - ACM SIGCOMM 2022 Best Paper Award
 - Innovation Pioneer (Second Prize), Huawei Central Research Institute (Aug. 2022, Aug. 2021)
 - Research Travel Grant, HKUST (Mar. 2020)

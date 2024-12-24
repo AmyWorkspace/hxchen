@@ -8,6 +8,8 @@ author_profile: true
 
 - **Assistant Professor** at _IoT Thrust, Information Hub, HKUST(GZ)_ (Aug. 2023 - now)
 
+- **Assistant Professor** at _AI Thrust, Information Hub, HKUST(GZ)_ (Jan. 2025 - now)
+
 - **Researcher** at _Theory Lab, 2012 Labs, HKRC, Huawei_ (Oct. 2020 - Aug. 2023)
 
   - Leaded the network configuration automated generation/translation project. (Apr. 2021 - Jul. 2023)
@@ -40,8 +42,10 @@ author_profile: true
 - **TPC Member**:
 
   - ACM MobiSys (International Conference on Mobile Systems, Applications, and Services) 2025 [[link]](https://sigmobile.org/mobisys/2025/technical_program_committee/)
+  - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI and Social Good 2025 [[link]](https://2025.ijcai.org/call-for-papers-and-projects-multi-year-track-on-ai-and-social-good-special-track/)
+  - IEEE IJCNN (International Joint Conference on Neural Networks) 2025 [[link]](https://2025.ijcnn.org/)
   - IEEE/ACM IWQoS (International Symposium on Quality of Service) 2024 [[link]](https://iwqos2024.ieee-iwqos.org/)
-  - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI for Social Good 2024 [[link]](https://ijcai24.org/call-for-papers-and-projects-ai-and-social-good/)
+  - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI and Social Good 2024 [[link]](https://ijcai24.org/call-for-papers-and-projects-ai-and-social-good/)
   - IEEE ICDCS (International Conference on Distributed Computing Systems) 2024 [[link]](https://icdcs2024.icdcs.org/)
   - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI for Social Good 2023 [[link]](https://ijcai-23.org/ai-for-social-good-pcs/)
 
