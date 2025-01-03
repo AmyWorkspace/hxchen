@@ -44,6 +44,7 @@ author_profile: true
 - **TPC Member**:
 
   - ACM MobiSys (International Conference on Mobile Systems, Applications, and Services) 2025 [[link]](https://sigmobile.org/mobisys/2025/technical_program_committee/)
+  - IEEE/ACM IWQoS (International Symposium on Quality of Service) 2025 [[link]](https://iwqos2025.ieee-iwqos.org/)
   - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI and Social Good 2025 [[link]](https://2025.ijcai.org/call-for-papers-and-projects-multi-year-track-on-ai-and-social-good-special-track/)
   - IEEE IJCNN (International Joint Conference on Neural Networks) 2025 [[link]](https://2025.ijcnn.org/)
   - IEEE/ACM IWQoS (International Symposium on Quality of Service) 2024 [[link]](https://iwqos2024.ieee-iwqos.org/)

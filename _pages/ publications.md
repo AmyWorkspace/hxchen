@@ -22,8 +22,8 @@ redirect_from:
 
 <big>**2025**</big>
 
-- **[AAAI'25]** _Qihang Cao, **Huangxun Chen**_, "[ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Object]()". (to appear)
-- **[IEEE INFOCOM'25]** _Si Liao, Fengxu Yang, **Huangxun Chen**, Zhice Yang_, "[Enable Autonomous Backscatter in Everyday Devices]()". (to appear)
+- **[AAAI'25]** _Qihang Cao, **Huangxun Chen**_, "[ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Object](https://arxiv.org/abs/2412.14837)". [[paper]](https://amyworkspace.github.io/hxchen/files/aaai25-ove.pdf)
+- **[IEEE INFOCOM'25]** _Si Liao, Fengxu Yang, **Huangxun Chen**, Zhice Yang_, "[Enable Autonomous Backscatter in Everyday Devices](https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference)". (to appear)
 
 <big>**2024**</big>
 
