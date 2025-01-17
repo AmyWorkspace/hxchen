@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently serving as an Assistant Professor in [Internet of Things (IoT) Thrust](https://iott.hkust-gz.edu.cn/), with a joint-appointment in [Artificial Intelligence (AI) Thrust](https://facultyprofiles.hkust-gz.edu.cn/thrust-faculties?code=10011A10000000000H28), Information Hub, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
+I am currently serving as an Assistant Professor in [Internet of Things (IoT) Thrust](https://iott.hkust-gz.edu.cn/), with a joint appointment in [Artificial Intelligence (AI) Thrust](https://facultyprofiles.hkust-gz.edu.cn/thrust-faculties?code=10011A10000000000H28), Information Hub, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
 Before joining HKUST(GZ), I worked as a Researcher at Huawei Hong Kong Research Center (HKRC) from 2020 to 2023.
 I received my Ph.D. degree in Computer Science and Engineering from Hong Kong University of Science and Technology (HKUST) in 2020, under the supervision of [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/).
 I obtained my B.S. degree in Computer Science and Technology from Shanghai Jiao Tong University in 2015.
@@ -53,6 +53,7 @@ I am currently interested in exploring the practical challenges and requirements
 
 ## News
 
+- [17/01/2024] SelfFlag is accepted to CHI 2025.
 - [10/12/2024] OVE is accepted to AAAI 2025.
 - [06/12/2024] EMScatter is accepted to INFOCOM 2025.
 - [26/09/2024] waveBP is accepted to IMWUT/UbiComp 2024.
