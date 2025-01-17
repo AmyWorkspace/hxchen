@@ -53,7 +53,7 @@ I am currently interested in exploring the practical challenges and requirements
 
 ## News
 
-- [17/01/2024] SelfFlag is accepted to CHI 2025.
+- [17/01/2025] SelfFlag is accepted to CHI 2025.
 - [10/12/2024] OVE is accepted to AAAI 2025.
 - [06/12/2024] EMScatter is accepted to INFOCOM 2025.
 - [26/09/2024] waveBP is accepted to IMWUT/UbiComp 2024.
