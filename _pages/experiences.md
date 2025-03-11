@@ -27,6 +27,8 @@ author_profile: true
   - [IOTA 5503] Systems Security and Privacy: Theory and Applications [Spring 2024, co-instruction with Prof. TYSON, Gareth John]
   - [INFH 5000] Information Science and Technology: Essentials and Trends (IoT Module) [Fall 2023/Spring 2024/Fall 2024/Spring 2025]
   - [IOTA 6102] Internet of Things Seminar II [Spring 2025]
+  - [AAIA 3102] Python Programming for Artificial Intelligence [Fall 2025]
+  - [UFUG 1601] Introduction to Computer Science [Fall 2025]
 
 - **Teaching Assistant** at _HKUST_ (2015 - 2018)
 
@@ -47,6 +49,7 @@ author_profile: true
   - IEEE/ACM IWQoS (International Symposium on Quality of Service) 2025 [[link]](https://iwqos2025.ieee-iwqos.org/)
   - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI and Social Good 2025 [[link]](https://2025.ijcai.org/call-for-papers-and-projects-multi-year-track-on-ai-and-social-good-special-track/)
   - IEEE IJCNN (International Joint Conference on Neural Networks) 2025 [[link]](https://2025.ijcnn.org/)
+  - IEEE MetaCom (International Conference on Metaverse Computing, Networking, and Applications) 2025 [[link]](https://ieee-metacom.org/index.html)
   - IEEE/ACM IWQoS (International Symposium on Quality of Service) 2024 [[link]](https://iwqos2024.ieee-iwqos.org/)
   - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI and Social Good 2024 [[link]](https://ijcai24.org/call-for-papers-and-projects-ai-and-social-good/)
   - IEEE ICDCS (International Conference on Distributed Computing Systems) 2024 [[link]](https://icdcs2024.icdcs.org/)

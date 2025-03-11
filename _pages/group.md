@@ -22,8 +22,8 @@ author_profile: true
 - Dongsheng Yuan, 2025.1-2025.7 (B.S.@PolyU, M.S.@CUHK, incoming Ph.D. student)
 - Zheye Yin, 2024.12-2025.5 (B.S.@DUT, incoming Mphil student)
 - Mansha Liao, 2024.11-2025.5 (B.S.@UESTC)
-- Jialuo He, 2024.10-2025.3 (B.S.@CQU, M.S.@CQU)
-- Qihang Cao, 2023.10-2024.8 (on-site), 2024.9- (remote) (B.S.@SDU, M.S.@SJTU, incoming Ph.D. student)
+- Jialuo He, 2024.10-2025.3 (B.S.@CQU, M.S.@CQU, incoming Ph.D. student)
+- Qihang Cao, 2023.10-2024.8 (on-site), 2024.9- (remote) (B.S.@SDU, M.S.@SJTU)
 - Yimo Deng, 2023.9-2025.5 (B.S.@NEU)
 
 <big>**Alumni**</big>
