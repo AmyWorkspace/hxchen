@@ -16,6 +16,10 @@ author_profile: true
 
 <big>**Talks and Presentations**</big>
 
+- Towards Resilient Ubiquitous Intelligence: Attack-Defense Co-Investigation
+  - BUPT/BIT/THU/PKU. Aug. 2024, Beijing, China [[event link]](https://mp.weixin.qq.com/s/Z1A7UZVHSEZBf4Ohm51_0Q)
+  - NWPU/Xidian/XJTU, Jul. 2024, Xi'an, China [[event link]](https://mp.weixin.qq.com/s/wxuexH0HDcW2u1_deETjhQ)
+  - SJTU/ShanghaiTech, Jun. 2024, Shanghai, China [[event link]](https://mp.weixin.qq.com/s/bZJWFdiex43SvJfN1fPH4Q)
 - Human-Cyber-Physics Synergy: From Human-Centered Computing to Human-Machine Collaboration
   - HKUST(GZ) IoT Thrust Seminar, May. 2023, Guangzhou, China [[event link]](https://mp.weixin.qq.com/s/hUb2uVfda-0A5nfbE5oLWw)
 - Software-Defined Network Assimilation: Bridging the Last Mile Towards Centralized Network Configuration Management with NAssim
