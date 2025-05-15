@@ -22,9 +22,12 @@ redirect_from:
 
 <big>**2025**</big>
 
+- **[EURO-PAR '25]** _Yisu Wang, Xinjiao Li, Ruilong Wu, **Huangxun Chen**, Dirk Kutscher_, "[NetSenseML: Network-Adaptive Compression for Efficient Distributed Machine Learning]()". (to appear)
 - **[ACM CHI'25]** _Si Liao, Hanwei He, **Huangxun Chen**, Zhice Yang_, "[Bystander Privacy in Video Sharing Era: Automated Consent Compliance through Platform Censorship]()". [[paper]](https://amyworkspace.github.io/hxchen/files/chi25-selfflag.pdf)
 - **[AAAI'25]** _Qihang Cao, **Huangxun Chen**_, "[ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Object](https://arxiv.org/abs/2412.14837)". [[paper]](https://amyworkspace.github.io/hxchen/files/aaai25-ove.pdf)
 - **[IEEE INFOCOM'25]** _Si Liao, Fengxu Yang, **Huangxun Chen**, Zhice Yang_, "[Enable Autonomous Backscatter in Everyday Devices](https://infocom2025.ieee-infocom.org/program/accepted-paper-list-main-conference)". [[paper]](https://amyworkspace.github.io/hxchen/files/infocom25_emscatter.pdf)
+- **[ACM Sensys'25 Poster]** _Yihong Hang, Hao Li, **Huangxun Chen**, Fengxu Yang, Zhice Yang_, "[LLM-Piloted Visual Privacy Agent on Mobile Systems](https://dl.acm.org/doi/10.1145/3715014.3724025)". [[paper]](https://amyworkspace.github.io/hxchen/files/sensys25posters-privacyagent.pdf)
+
 
 <big>**2024**</big>
 

@@ -28,6 +28,7 @@ My Chinese name and its pronunciation are
 ## Research Interests
 
 - Ubiquitous Intelligence
+- Edge/Embedded AI
 - Cyber-Physical Security
 - Intent‑driven System Operation and Management
 - AIoT (Artificial Intelligence of Things)
