@@ -8,30 +8,47 @@ author_profile: true
 
 [//]: # (- Dongsheng Yuan, 2025.9- &#40;B.S.@PolyU, M.S.@CUHK&#41;)
 [//]: # (- Jialuo He, 2025.9-, &#40;B.S.@CQU, M.S.@CQU&#41;)
+[//]: # (- Xinger Huang, 2025.9- &#40;B.S.@SDU&#41;)
 - Siyuan Liu, 2024.9-, (B.S.@HITSZ)
 - Jinkang Li, 2024.9-, (B.S.@XJTU, M.S.@CUHK)
 - Xudong Zhang, 2024.9-, (B.S.@SUSTech)
 - Yansong Sun, 2024.1-, (B.S.@UESTC, M.S.@NTU, co-supervisor: Prof. Dirk Kutscher)
+- Xinjiao Li, 2024.9-, (B.S.@DUT, M.S.@DUT, prime supervisor: Prof. Dirk Kutscher, co-supervision starting from 2025.5)
 - Yisu Wang, 2024.1-, (Dual M.S.@Xidian-LoughboroughU, prime supervisor: Prof. Dirk Kutscher, co-supervision starting from 2024.12)
 
 <big>**Mphil Students[@RedBird Program](https://vptlo.hkust-gz.edu.cn/rbm/)**</big>
+- Mansha Liao, 2025.9-2027.6 (B.S.@UESTC)
+- Xinyao Zhang, 2025.9-2027.6 (B.S.@BUPT)
+- Zheye Yin, 2025.9-2027.6 (B.S.@DUT)
+- Shaokun Liu, 2025.9-2027.6 (B.S.@SCUT)
 
-- Zihan Gan, 2023.9-2025.6 (B.S.@HUST)
-- Chenyu Liu, 2023.9-2025.6 (B.S.@BUPT)
+<big>**Research Assistants**</big>
 
-<big>**Research Assistants/Visitors/Interns**</big>
-
-- Xinyao Zhang, 2025.4-2025.6 (B.S.@BUPT, incoming Mphil student)
 - Dongsheng Yuan, 2025.1-2025.7 (B.S.@PolyU, M.S.@CUHK, incoming Ph.D. student)
-- Zheye Yin, 2024.12-2025.6 (B.S.@DUT, incoming Mphil student)
-- Mansha Liao, 2024.11-2025.5 (B.S.@UESTC, incoming Mphil student)
-- Qihang Cao, 2023.10-2024.8 (on-site), 2024.9- (remote) (B.S.@SDU, M.S.@SJTU)
-- Yimo Deng, 2023.9-2025.7 (B.S.@NEU)
+- Qihang Cao, 2025.8-2025.12 (B.S.@SDU, M.S.@SJTU)
+- Yimo Deng, 2024.9-2025.10 (B.S.@NEU)
 
 <big>**Alumni**</big>
 
-- Jialuo He, 2024.10-2025.3 (B.S.@CQU, M.S.@CQU, Research Intern, next move: Ph.D. student@HKUST-GZ)
-- Jinkang Li, 2024.5-2024.8, (B.S.@XJTU, M.S.@CUHK, Research Assistant, next move: Ph.D. student@HKUST-GZ)
-- Yanjie Min, 2024.2-2024.5 (B.S.@SCNU, Undergraduate Research Intern)
-- Siyuan Liu, 2023.10-2024.5 (B.S.@HITSZ, Undergraduate Research Intern, next move: Ph.D. student@HKUST-GZ)
-- Si Liao, 2023.10-2024.7 (B.S.@HUST, visiting Ph.D. student from Prof. Zhice Yang's group@ShanghaiTech)
+- **RedBird Mphil**:
+
+  - Zihan Gan, 2023.9-2025.6 (B.S.@HUST)
+
+- **Postgraduate Research Intern**:
+
+  - Jialuo He, 2024.10-2025.3 (B.S.@CQU, M.S.@CQU, next move: Ph.D. student@HKUST-GZ)
+  - Jinkang Li, 2024.5-2024.8 (B.S.@XJTU, M.S.@CUHK, next move: Ph.D. student@HKUST-GZ)
+  - Qihang Cao, 2023.10-2024.8 (B.S.@SDU, M.S.@SJTU)
+  - Si Liao, 2023.10-2024.7 (B.S.@HUST, visiting Ph.D. student from Prof. Zhice Yang's group@ShanghaiTech)
+
+- **Undergraduate Research Intern**:
+
+  - Xinyao Zhang, 2025.4-2025.6 (B.S.@BUPT, next move: Mphil student@HKUST-GZ)
+  - Zheye Yin, 2024.12-2025.6 (B.S.@DUT, next move: Mphil student@HKUST-GZ)
+  - Mansha Liao, 2024.11-2025.6 (B.S.@UESTC, next move: Mphil student@HKUST-GZ)
+  - Yanjie Min, 2024.2-2024.6 (B.S.@SCNU)
+  - Siyuan Liu, 2023.10-2024.5 (B.S.@HITSZ, next move: Ph.D. student@HKUST-GZ)
+  - Yimo Deng, 2023.9-2024.6 (B.S.@NEU)
+
+[//]: # (- **Research Assistant**:)
+[//]: # (  - Dongsheng Yuan, 2025.1-2025.7 &#40;B.S.@PolyU, M.S.@CUHK, next move: Ph.D. student@HKUST-GZ&#41;)
