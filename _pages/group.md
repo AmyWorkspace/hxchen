@@ -13,7 +13,7 @@ author_profile: true
 - Jinkang Li, 2024.9-, (B.S.@XJTU, M.S.@CUHK)
 - Xudong Zhang, 2024.9-, (B.S.@SUSTech)
 - Yansong Sun, 2024.1-, (B.S.@UESTC, M.S.@NTU, co-supervisor: Prof. Dirk Kutscher)
-- Xinjiao Li, 2024.9-, (B.S.@DUT, M.S.@DUT, prime supervisor: Prof. Dirk Kutscher, co-supervision starting from 2025.5)
+- Xinjiao Li, 2025.1-, (B.S.@DUT, M.S.@DUT, prime supervisor: Prof. Dirk Kutscher, co-supervision starting from 2025.5)
 - Yisu Wang, 2024.1-, (Dual M.S.@Xidian-LoughboroughU, prime supervisor: Prof. Dirk Kutscher, co-supervision starting from 2024.12)
 
 <big>**Mphil Students[@RedBird Program](https://vptlo.hkust-gz.edu.cn/rbm/)**</big>
