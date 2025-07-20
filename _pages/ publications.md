@@ -24,7 +24,7 @@ redirect_from:
 
 <big>**2025**</big>
 
-- **[ACM MobiCom'25]** _<u>Yansong Sun</u>, <u>Jialuo He</u>, Dirk Kutscher, **Huangxun Chen**_, "[AdaptQNet: Optimizing Quantized DNN on Microcontrollers via Adaptive Heterogeneous Processing Unit Utilization]()". (to appear)
+- **[ACM MobiCom'25]** <span class="inline-blue-box">CCF-A</span> _<u>Yansong Sun</u>, <u>Jialuo He</u>, Dirk Kutscher, **Huangxun Chen**_, "[AdaptQNet: Optimizing Quantized DNN on Microcontrollers via Adaptive Heterogeneous Processing Unit Utilization]()". (to appear)
 - **[Euro-Par'25]** _<u>Yisu Wang</u>, Xinjiao Li, Ruilong Wu, **Huangxun Chen**, Dirk Kutscher_, "[NetSenseML: Network-Adaptive Compression for Efficient Distributed Machine Learning]()". (to appear)
 - **[ACM CHI'25]** _<u>Si Liao</u>, Hanwei He, **Huangxun Chen**, Zhice Yang_, "[Bystander Privacy in Video Sharing Era: Automated Consent Compliance through Platform Censorship](https://dl.acm.org/doi/10.1145/3706598.3713391)". [[paper]](https://amyworkspace.github.io/hxchen/files/chi25-selfflag.pdf)
 - **[AAAI'25]** _<u>Qihang Cao</u>, **Huangxun Chen**_, "[ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Object](https://ojs.aaai.org/index.php/AAAI/article/view/32190)". [[paper]](https://amyworkspace.github.io/hxchen/files/aaai25-ove.pdf)
