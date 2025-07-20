@@ -475,7 +475,28 @@ a.reversefootnote {
   background-color: #0D3869;
   color: white;
   padding: 0em 0.5em;
-  border-radius: 6px;
+  border-radius: 5px;
   font-size: 0.9em;
   vertical-align: middle;
 }
+
+.inline-red-box {
+  display: inline-block;
+  background-color: #701D23;
+  color: white;
+  padding: 0em 0.5em;
+  border-radius: 5px;
+  font-size: 0.9em;
+  vertical-align: middle;
+}
+
+.inline-green-box {
+  display: inline-block;
+  background-color: #194D25;
+  color: white;
+  padding: 0em 0.5em;
+  border-radius: 5px;
+  font-size: 0.9em;
+  vertical-align: middle;
+}
+
