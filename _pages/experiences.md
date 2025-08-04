@@ -45,9 +45,11 @@ author_profile: true
 
 - **TPC Member**:
 
+  - AAAI (The Annual AAAI Conference on Artificial Intelligence) [2026](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/)
+  - AAAI (The Annual AAAI Conference on Artificial Intelligence) - AI Alignment Track [2026](https://aaai.org/conference/aaai/aaai-26/aia-call/)
   - ACM MobiSys (International Conference on Mobile Systems, Applications, and Services) [2025](https://sigmobile.org/mobisys/2025/technical_program_committee/)
   - IEEE/ACM IWQoS (International Symposium on Quality of Service) [2025](https://iwqos2025.ieee-iwqos.org/)/[2024](https://iwqos2024.ieee-iwqos.org/)
-  - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI and Social Good [2025](https://2025.ijcai.org/call-for-papers-and-projects-multi-year-track-on-ai-and-social-good-special-track/)/[2024](https://ijcai24.org/call-for-papers-and-projects-ai-and-social-good/)/[2023](https://ijcai-23.org/ai-for-social-good-pcs/)
+  - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI and Social Good Track [2025](https://2025.ijcai.org/call-for-papers-and-projects-multi-year-track-on-ai-and-social-good-special-track/)/[2024](https://ijcai24.org/call-for-papers-and-projects-ai-and-social-good/)/[2023](https://ijcai-23.org/ai-for-social-good-pcs/)
   - IEEE IJCNN (International Joint Conference on Neural Networks) [2025](https://2025.ijcnn.org/)
   - IEEE MetaCom (International Conference on Metaverse Computing, Networking, and Applications) [2025](https://ieee-metacom.org/index.html)
   - IEEE ICDCS (International Conference on Distributed Computing Systems) [2024](https://icdcs2024.icdcs.org/)
