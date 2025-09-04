@@ -28,7 +28,6 @@ author_profile: true
 
 <big>**Research Assistant**</big>
 
-- Qihang Cao, 2025.8-2025.12 (B.S.@SDU, M.S.@SJTU)
 - Yimo Deng, 2024.9-2025.10 (B.S.@NEU)
 
 <big>**Alumni**</big>
@@ -42,7 +41,7 @@ author_profile: true
   - Dongsheng Yuan, 2025.1-2025.7 (B.S.@PolyU, M.S.@CUHK, next move: Ph.D. student@HKUST-GZ)
   - Jialuo He, 2024.10-2025.3 (B.S.@CQU, M.S.@CQU, next move: Ph.D. student@HKUST-GZ)
   - Jinkang Li, 2024.5-2024.8 (B.S.@XJTU, M.S.@CUHK, next move: Ph.D. student@HKUST-GZ)
-  - Qihang Cao, 2023.10-2024.8 (B.S.@SDU, M.S.@SJTU)
+  - Qihang Cao, 2023.10-2024.8, 2025.5-2025.9@RA (B.S.@SDU, M.S.@SJTU, next move: Ph.D. student@NTU)
   - Si Liao, 2023.10-2024.7 (B.S.@HUST, visiting Ph.D. student from [Prof. Zhice Yang](https://www.yangzhice.com/)'s group@ShanghaiTech)
 
 - **Undergraduate Research Intern**:

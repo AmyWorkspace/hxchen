@@ -54,6 +54,7 @@ I am currently interested in exploring the practical challenges and requirements
 
 ## News
 
+- [22/08/2025] MemAura is accepted to MobiCom 2025 (Posters). 
 - [22/06/2025] AdaptQNet is accepted to MobiCom 2025. 
 - [30/04/2025] NetSenseML is accepted to Euro-Par 2025.
 - [17/01/2025] SelfFlag is accepted to CHI 2025.
