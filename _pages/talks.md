@@ -16,6 +16,8 @@ author_profile: true
 
 <big>**Talks and Presentations**</big>
 
+- From Microcontrollers to Servers: Building Efficient and Trustworthy AI Systems Across the Computing Spectrum
+  - MobiArch 2025 (held in conjunction with MobiCom 2025) Keynote [[event link]](https://mobiarch2025.github.io/program.html)
 - Towards Resilient Ubiquitous Intelligence: Attack-Defense Co-Investigation
   - BUPT/BIT/THU/PKU. Aug. 2024, Beijing, China [[event link]](https://mp.weixin.qq.com/s/Z1A7UZVHSEZBf4Ohm51_0Q)
   - NWPU/Xidian/XJTU, Jul. 2024, Xi'an, China [[event link]](https://mp.weixin.qq.com/s/wxuexH0HDcW2u1_deETjhQ)
@@ -33,3 +35,6 @@ author_profile: true
   - AAAI, Feb. 2020, New York, USA
 - DriveSafe Inspector: A Wearable-Based Fine-Grained Technique for Driver Hand Position Detection
   - IEEE Globecom, Dec. 2018, Abu Dhabi, UAE
+
+[//]: # (- Augmenter or Replacer: Rethinking LLM’s Role in Managing Heterogeneous Network Configuration Languages)
+[//]: # (  - 2025 China-Europe Scientists Forum – ICT Transformation Forum [[event link]]&#40;https://mp.weixin.qq.com/s/WlPueMoikF2aYJeVQgZbwg&#41;)

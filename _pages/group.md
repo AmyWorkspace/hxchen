@@ -25,10 +25,12 @@ author_profile: true
 - Xinyao Zhang, 2025.9-2027.6 (B.S.@BUPT)
 - Zheye Yin, 2025.9-2027.6 (B.S.@DUT)
 - Shaokun Liu, 2025.9-2027.6 (B.S.@SCUT)
+- Manqiu Liao, 2025.9-2027.6 (B.S.@BUPT)
+- Haonan Jiang, 2025.9-2027.6 (B.S.@WUT)
 
 <big>**Research Assistant**</big>
 
-- Yimo Deng, 2024.9-2025.10 (B.S.@NEU)
+- Yimo Deng, 2024.9-2025.12 (B.S.@NEU)
 
 <big>**Alumni**</big>
 

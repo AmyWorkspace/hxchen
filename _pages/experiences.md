@@ -23,10 +23,10 @@ author_profile: true
 
 - **Instructor** at _HKUST(GZ)_ (2023 - now)
 
-  - [IOTA 5202] Efficient Machine Learning for Resource Constrained Environments [Spring 2024/Fall 2024] [intro](https://mp.weixin.qq.com/s/LigUkImpwQLVHjOUkOysKg)
+  - [IOTA 5202] Efficient Machine Learning for Resource Constrained Environments [Spring 2024/Fall 2024/Spring 2026] [intro](https://mp.weixin.qq.com/s/LigUkImpwQLVHjOUkOysKg)
   - [IOTA 5503] Systems Security and Privacy: Theory and Applications [Spring 2024, co-instruction with Prof. TYSON, Gareth John]
   - [INFH 5000] Information Science and Technology: Essentials and Trends (IoT Module) [Fall 2023/Spring 2024/Fall 2024/Spring 2025/Summer 2025]
-  - [IOTA 6102] Internet of Things Seminar II [Spring 2025]
+  - [IOTA 6102] Internet of Things Seminar II [Spring 2025/Spring 2026]
   - [AAIA 5031] Introduction to Computing Using Python [Fall 2025]
   - [UFUG 1601] Introduction to Computer Science [Fall 2025]
 
