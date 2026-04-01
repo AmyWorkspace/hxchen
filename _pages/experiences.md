@@ -13,7 +13,6 @@ author_profile: true
 - **Affiliated Assistant Professor** at _HKUST_ (Oct. 2023 - now)
 
 - **Researcher** at _Theory Lab, 2012 Labs, HKRC, Huawei_ (Oct. 2020 - Aug. 2023)
-
   - Leaded the network configuration automated generation/translation project. (Apr. 2021 - Jul. 2023)
   - Worked on co-located optical cable inference in the optical network. (Oct. 2020 - Mar. 2021)
 
@@ -22,16 +21,16 @@ author_profile: true
 <big>**Teaching Experience**</big>
 
 - **Instructor** at _HKUST(GZ)_ (2023 - now)
-
   - [IOTA 5202] Efficient Machine Learning for Resource Constrained Environments [Spring 2024/Fall 2024/Spring 2026] [intro](https://mp.weixin.qq.com/s/LigUkImpwQLVHjOUkOysKg)
   - [IOTA 5503] Systems Security and Privacy: Theory and Applications [Spring 2024, co-instruction with Prof. TYSON, Gareth John]
-  - [INFH 5000] Information Science and Technology: Essentials and Trends (IoT Module) [Fall 2023/Spring 2024/Fall 2024/Spring 2025/Summer 2025]
   - [IOTA 6102] Internet of Things Seminar II [Spring 2025/Spring 2026]
-  - [AAIA 5031] Introduction to Computing Using Python [Fall 2025]
+  - [INFH 5000] Information Science and Technology: Essentials and Trends (IoT Module) [Fall 2023/Spring 2024/Fall 2024/Spring 2025/Summer 2025]
   - [UFUG 1601] Introduction to Computer Science [Fall 2025]
+  - [AAIA 5031] Introduction to Computing Using Python [Fall 2025]
+  - [AIAA 3102] Python Programming with Artificial Intelligence [Summer 2026]
+  - [AIAA 1010] Academic Orientation for AI Students ("Embedded AI" session) [Spring 2026]
 
 - **Teaching Assistant** at _HKUST_ (2015 - 2018)
-
   - [COMP4621] Computer Communication Networks I
   - [COMP2611] Computer Organization
 
@@ -40,31 +39,30 @@ author_profile: true
 <big>**Academic Service**</big>
 
 - **Executive Committee Member**:
-
   - CCF Technical Committee on Pervasive Computing (TCPC) [[link]](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCPC/)
+  - ACM Special Interest Group on Embedded Systems (SIGBED) China
+
+- **Associate Editor**:
+  - ACM IMWUT (Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies)
 
 - **TPC Member**:
-
   - AAAI (The Annual AAAI Conference on Artificial Intelligence) [2026](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/)
   - AAAI (The Annual AAAI Conference on Artificial Intelligence) - AI Alignment Track [2026](https://aaai.org/conference/aaai/aaai-26/aia-call/)
   - ACM MobiSys (International Conference on Mobile Systems, Applications, and Services) [2025](https://sigmobile.org/mobisys/2025/technical_program_committee/)
-  - IEEE/ACM IWQoS (International Symposium on Quality of Service) [2025](https://iwqos2025.ieee-iwqos.org/)/[2024](https://iwqos2024.ieee-iwqos.org/)
-  - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI and Social Good Track [2025](https://2025.ijcai.org/call-for-papers-and-projects-multi-year-track-on-ai-and-social-good-special-track/)/[2024](https://ijcai24.org/call-for-papers-and-projects-ai-and-social-good/)/[2023](https://ijcai-23.org/ai-for-social-good-pcs/)
+  - IEEE/ACM IWQoS (International Symposium on Quality of Service) [2026](https://iwqos2026.ieee-iwqos.org/committees)/[2025](https://iwqos2025.ieee-iwqos.org/)/[2024](https://iwqos2024.ieee-iwqos.org/)
+  - IEEE IJCAI (International Joint Conference on Artificial Intelligence) - AI and Social Good Track [2026](https://2026.ijcai.org/ijcai-ecai-2026-call-for-papers-ai4good/)/[2025](https://2025.ijcai.org/call-for-papers-and-projects-multi-year-track-on-ai-and-social-good-special-track/)/[2024](https://ijcai24.org/call-for-papers-and-projects-ai-and-social-good/)/[2023](https://ijcai-23.org/ai-for-social-good-pcs/)
   - IEEE IJCNN (International Joint Conference on Neural Networks) [2025](https://2025.ijcnn.org/)
   - IEEE MetaCom (International Conference on Metaverse Computing, Networking, and Applications) [2025](https://ieee-metacom.org/index.html)
   - IEEE ICDCS (International Conference on Distributed Computing Systems) [2024](https://icdcs2024.icdcs.org/)
 
 - **Chair**:
-
   - Session Chair: ACM MobiSys (International Conference on Mobile Systems, Applications, and Services) [2025](https://www.sigmobile.org/mobisys/2025/program/)
-  - Publicity Chair: The 6th International Conference on Science of Cyber Security SciSec [2024](https://scisec.org/)
+  - Publicity Chair: The 6th International Conference on Science of Cyber Security (SciSec) [2024](https://scisec.org/)
 
 - **Panelist**:
-  
   - N2Women Program of ACM MobiSys 2025 [[link]](https://www.sigmobile.org/mobisys/2025/n2women_program/)
 
 - **Reviewer**:
-
   - ACM IMWUT/Ubicomp (Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies)
   - ACM CHI (Conference on Human Factors in Computing Systems)
   - NeurIPS (Annual Conference on Neural Information Processing Systems)

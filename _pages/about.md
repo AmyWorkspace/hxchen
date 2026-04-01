@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 I am currently serving as an Assistant Professor in [Internet of Things (IoT) Thrust](https://iott.hkust-gz.edu.cn/), with a joint appointment in [Artificial Intelligence (AI) Thrust](https://facultyprofiles.hkust-gz.edu.cn/thrust-faculties?code=10011A10000000000H28), Information Hub, [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
-Before joining HKUST(GZ), I worked as a Researcher at Huawei Hong Kong Research Center (HKRC) from 2020 to 2023.
-I received my Ph.D. degree in Computer Science and Engineering from Hong Kong University of Science and Technology (HKUST) in 2020, under the supervision of [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/).
-I obtained my B.S. degree in Computer Science and Technology from Shanghai Jiao Tong University in 2015.
+Before joining HKUST(GZ), I worked as a Researcher at Huawei Hong Kong Research Center (HKRC).
+I received my Ph.D. degree in Computer Science and Engineering from Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/).
+I obtained my B.S. degree in Computer Science and Technology from Shanghai Jiao Tong University.
 
 My Chinese name and its pronunciation are
 <ruby>
@@ -27,17 +27,14 @@ My Chinese name and its pronunciation are
 
 ## Research Interests
 
-- Ubiquitous Intelligence
-- Edge/Embedded AI
-- Cyber-Physical Security
-- Intent‑driven System Operation and Management
-- AIoT (Artificial Intelligence of Things)
+- Efficient Edge/Embedded AI
+- Agentic AI (for domain-specific workflows and everyday scenarios)
+- Security and Privacy in Sensing/Perception Systems
 
 I always welcome motivated PhD/MPhil/Research Interns/Visitors to work with me at HKUST(GZ).
 For the latest recruitment details, please visit [this link](https://www.chenhuangxun.com/recruitment/).
 
-I am broadly interested in challenging problems with practical impact, particularly in networked and cyber-physical systems, and also keep open-minded to cross-disciplinary problem domains.
-Email me if you'd like to chat.
+I am also broadly interested in challenging problems with practical impact and also keep open-minded to cross-disciplinary problem domains. Email me if you'd like to chat.
 
 <!--
 
@@ -54,17 +51,20 @@ I am currently interested in exploring the practical challenges and requirements
 
 ## News
 
-- [22/08/2025] MemAura is accepted to MobiCom 2025 (Posters). 
-- [22/06/2025] AdaptQNet is accepted to MobiCom 2025. 
-- [30/04/2025] NetSenseML is accepted to Euro-Par 2025.
-- [17/01/2025] SelfFlag is accepted to CHI 2025.
-- [10/12/2024] OVE is accepted to AAAI 2025.
-- [06/12/2024] EMScatter is accepted to INFOCOM 2025.
-- [26/09/2024] waveBP is accepted to IMWUT/UbiComp 2024.
-- [20/08/2024] SecurityHub is accepted to ACSAC 2024.
-- [09/03/2024] mTunnel is accepted to S&P 2024.
-- [01/12/2023] CS3T-UNet is accepted to INFOCOM 2024.
-- [19/10/2023] RimSense is accepted to IMWUT/UbiComp 2024.
-- [20/09/2023] RIStealth and RIScan are accepted to SenSys 2023.
-- [15/08/2023] Joining HKUST(GZ) as an Assistant Professor. New journey :)
+- [01/04/2026] MemAura is accepted to IMWUT/Ubicomp 2026. Congratulations to Siyuan!
+- [24/03/2026] Invited to serve as an Associate Editor of ACM IMWUT.
+- [12/11/2025] Yansong, my first PhD student, received the 2025 IoT Student Achievement Award at HKUST(GZ). Congratulations!
+- [22/08/2025] MemAura is accepted to MobiCom 2025 (Posters). Congratulations to Siyuan!
+- [22/06/2025] AdaptQNet is accepted to MobiCom 2025. Congratulations to Yansong!
+- [30/04/2025] NetSenseML is accepted to Euro-Par 2025. Congratulations to Yisu!
+- [17/01/2025] SelfFlag is accepted to CHI 2025. Congratulations to Si!
+- [10/12/2024] OVE is accepted to AAAI 2025. Congratulations to Qihang!
+- [06/12/2024] EMScatter is accepted to INFOCOM 2025. Congratulations to Si!
+- [26/09/2024] waveBP is accepted to IMWUT/UbiComp 2024. Congratulations to Qingyong!
+- [20/08/2024] SecurityHub is accepted to ACSAC 2024. Congratulations to Si!
+- [09/03/2024] mTunnel is accepted to S&P 2024. Congratulations to Yuelin!
+- [01/12/2023] CS3T-UNet is accepted to INFOCOM 2024. Congratulations to Hua!
+- [19/10/2023] RimSense is accepted to IMWUT/UbiComp 2024. Congratulations to Wentao!
+- [20/09/2023] RIStealth and RIScan are accepted to SenSys 2023. Congratulations to Yuxuan and Chenggao!
+- [15/08/2023] Joining HKUST(GZ) as an Assistant Professor. New journey :-）
 <!-- - [10/08/2023] Last Day in Huawei Hong Kong.  -->
