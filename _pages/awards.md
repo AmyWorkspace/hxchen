@@ -6,6 +6,7 @@ author_profile: true
 
 <big>**Awards and Honors**</big>
 
+- ICML 2026 Silver Reviewer Award 
 - ACM IMWUT/Ubicomp 2025 Distinguished Paper Award 
 - National-Level (MoE) Overseas Talent (2024)
 - Guangdong Pearl-River Top Young Talent (2024)

@@ -24,7 +24,7 @@ redirect_from:
 
 <big>**2026**</big>
 
-- **[ACM IMWUT/Ubicomp'26]** <span class="inline-blue-box">CCF-A</span> _<u>Siyuan Liu</u>, **Huangxun Chen**_, "[MemAura: Structured Context Memory for Personalized LLM Reasoning in Smart Environments]()". (to appear)
+- **[ACM IMWUT/Ubicomp'26]** <span class="inline-blue-box">CCF-A</span> _<u>Siyuan Liu</u>, **Huangxun Chen**_, "[MemAura: Structured Context Memory for Personalized LLM Reasoning in Smart Environments]()". [[paper]](https://amyworkspace.github.io/hxchen/files/imwut26-memaura.pdf) [[demo]](https://www.bilibili.com/video/BV1ufLF6oEpS/?share_source=copy_web&vd_source=e3aeaf5c6885936d955810dd629731d2)
 
 <big>**2025**</big>
 

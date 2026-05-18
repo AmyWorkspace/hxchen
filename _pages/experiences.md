@@ -43,7 +43,7 @@ author_profile: true
   - ACM Special Interest Group on Embedded Systems (SIGBED) China
 
 - **Associate Editor**:
-  - ACM IMWUT (Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies)
+  - ACM IMWUT (Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies) [[link]](https://dl.acm.org/journal/imwut/editorial-board)
 
 - **TPC Member**:
   - AAAI (The Annual AAAI Conference on Artificial Intelligence) [2026](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/)
