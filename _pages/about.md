@@ -51,11 +51,12 @@ I am currently interested in exploring the practical challenges and requirements
 
 ## News
 
+- [18/06/2026] EmbedCopilotBench is accepted to ECCV 2026. Congratulations to Dongsheng and Yimo!
 - [01/04/2026] MemAura is accepted to IMWUT/Ubicomp 2026. Congratulations to Siyuan!
 - [24/03/2026] Invited to serve as an Associate Editor of ACM IMWUT.
 - [12/11/2025] Yansong, my first PhD student, received the 2025 IoT Student Achievement Award at HKUST(GZ). Congratulations!
 - [22/08/2025] MemAura is accepted to MobiCom 2025 (Posters). Congratulations to Siyuan!
-- [22/06/2025] AdaptQNet is accepted to MobiCom 2025. Congratulations to Yansong!
+- [22/06/2025] AdaptQNet is accepted to MobiCom 2025. Congratulations to Yansong and Jialuo!
 - [30/04/2025] NetSenseML is accepted to Euro-Par 2025. Congratulations to Yisu!
 - [17/01/2025] SelfFlag is accepted to CHI 2025. Congratulations to Si!
 - [10/12/2024] OVE is accepted to AAAI 2025. Congratulations to Qihang!
