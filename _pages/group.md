@@ -14,23 +14,28 @@ author_profile: true
 - Jinkang Li, 2024.9-, (B.S.@XJTU, M.S.@CUHK)
 - Xudong Zhang, 2024.9-, (B.S.@SUSTech)
 - Yansong Sun, 2024.1-, (B.S.@UESTC, M.S.@NTU)
+- Xinjiao Li, 2025.1-, (B.S.@DUT, M.S.@DUT, 2025.5-2026.6 as co-supervisor, 2026.7- as prime supervisor)
+- Yitong Li, 2024.9-, (B.S.@BUPT, M.S.@HKUST, 2026.7- as prime supervisor)
+- Yisu Wang, 2024.1-, (Dual M.S.@Xidian-LoughboroughU, 2024.12-2026.6 as co-supervisor, 2026.7- as prime supervisor)
 
 <big>**Ph.D. Student (co-supervisor)**</big>
-- Huanze Dong, 2024.8-, (B.S.@SCU, M.S.@WasedaU, primary supervisor: [Prof. Ying Cui](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CUI-Ying/yingcui), co-supervision starting from 2025.8)
-- Xinjiao Li, 2025.1-, (B.S.@DUT, M.S.@DUT, primary supervisor: [Prof. Dirk Kutscher](https://dirk-kutscher.info/), co-supervision starting from 2025.5)
-- Yisu Wang, 2024.1-, (Dual M.S.@Xidian-LoughboroughU, primary supervisor: [Prof. Dirk Kutscher](https://dirk-kutscher.info/), co-supervision starting from 2024.12)
+- Huanze Dong, 2024.9-, (B.S.@SCU, M.S.@WasedaU, 2025.8- as co-supervisor)
+- Meiqi Tian, 2024.9-, (B.S.@NKU, M.S.@NKU, 2025.6- as co-supervisor)
+
+[//]: # (- Xinjiao Li, 2025.1-, &#40;B.S.@DUT, M.S.@DUT, primary supervisor: [Prof. Dirk Kutscher]&#40;https://dirk-kutscher.info/&#41;, co-supervision starting from 2025.5&#41;)
+[//]: # (- Yisu Wang, 2024.1-, &#40;Dual M.S.@Xidian-LoughboroughU, primary supervisor: [Prof. Dirk Kutscher]&#40;https://dirk-kutscher.info/&#41;, co-supervision starting from 2024.12&#41;)
 
 <big>**Mphil Student[@RedBird Program](https://vptlo.hkust-gz.edu.cn/rbm/)**</big>
-- Mansha Liao, 2025.9-2027.6 (B.S.@UESTC)
+- Yimo Deng, 2026.9-2028.6 (B.S.@NEU)
 - Xinyao Zhang, 2025.9-2027.6 (B.S.@BUPT)
 - Zheye Yin, 2025.9-2027.6 (B.S.@DUT)
-- Shaokun Liu, 2025.9-2027.6 (B.S.@SCUT)
+- Mansha Liao, 2025.9-2027.6 (B.S.@UESTC)
 - Manqiu Liao, 2025.9-2027.6 (B.S.@BUPT)
+- Shaokun Liu, 2025.9-2027.6 (B.S.@SCUT)
 - Haonan Jiang, 2025.9-2027.6 (B.S.@WUT)
 
-<big>**Research Assistant**</big>
+[//]: # (<big>**Research Assistant/Intern**</big>)
 
-- Yimo Deng, 2024.9-2025.12 (B.S.@NEU)
 
 <big>**Alumni**</big>
 
@@ -54,7 +59,7 @@ author_profile: true
   - Mansha Liao, 2024.11-2025.7 (B.S.@UESTC, next move: Mphil student@HKUST-GZ)
   - Yanjie Min, 2024.2-2024.6 (B.S.@SCNU)
   - Siyuan Liu, 2023.10-2024.5 (B.S.@HITSZ, next move: Ph.D. student@HKUST-GZ)
-  - Yimo Deng, 2023.9-2024.6 (B.S.@NEU)
+  - Yimo Deng, 2023.9-2024.6, 2024.9-2026.4 (B.S.@NEU, next move: Mphil student@HKUST-GZ)
 
 [//]: # (- **Research Assistant**:)
 [//]: # (  - Dongsheng Yuan, 2025.1-2025.7 &#40;B.S.@PolyU, M.S.@CUHK, next move: Ph.D. student@HKUST-GZ&#41;)
