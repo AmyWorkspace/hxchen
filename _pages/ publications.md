@@ -24,7 +24,7 @@ redirect_from:
 
 <big>**2026**</big>
 
-- **[ECCV'26]** <span class="inline-blue-box">CCF-B</span> <span class="inline-green-box">Core A\*</span> _<u>Dongsheng Yuan</u>, <u>Yimo Deng</u>, **Huangxun Chen**_, "[EmbedCopilotBench: Evaluating Vision-Language Models for Hardware-Aware Embedded System Development]()". [[paper]](https://amyworkspace.github.io/hxchen/files/eccv26-embedcopilot.pdf) [[dataset]](https://huggingface.co/datasets/X-EASys/EmbedCopilot-Bench) [[code]](https://github.com/X-EASys/EmbedCopilot-Bench) 
+- **[ECCV'26 Oral]** <span class="inline-blue-box">CCF-B</span> <span class="inline-green-box">Core A\*</span> _<u>Dongsheng Yuan</u>, <u>Yimo Deng</u>, **Huangxun Chen**_, "[EmbedCopilotBench: Evaluating Vision-Language Models for Hardware-Aware Embedded System Development]()". [[paper]](https://amyworkspace.github.io/hxchen/files/eccv26-embedcopilot.pdf) [[dataset]](https://huggingface.co/datasets/X-EASys/EmbedCopilot-Bench) [[code]](https://github.com/X-EASys/EmbedCopilot-Bench) 
 - **[ACM IMWUT/Ubicomp'26]** <span class="inline-blue-box">CCF-A</span> _<u>Siyuan Liu</u>, **Huangxun Chen**_, "[MemAura: Structured Context Memory for Personalized LLM Reasoning in Smart Environments](https://dl.acm.org/doi/10.1145/3810196)". [[paper]](https://amyworkspace.github.io/hxchen/files/imwut26-memaura.pdf) [[demo]](https://www.bilibili.com/video/BV1ufLF6oEpS/?share_source=copy_web&vd_source=e3aeaf5c6885936d955810dd629731d2)
 
 <big>**2025**</big>

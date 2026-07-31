@@ -51,7 +51,7 @@ I am currently interested in exploring the practical challenges and requirements
 
 ## News
 
-- [18/06/2026] EmbedCopilotBench is accepted to ECCV 2026. Congratulations to Dongsheng and Yimo!
+- [18/06/2026] EmbedCopilotBench is accepted to ECCV 2026 (Oral). Congratulations to Dongsheng and Yimo!
 - [01/04/2026] MemAura is accepted to IMWUT/Ubicomp 2026. Congratulations to Siyuan!
 - [24/03/2026] Invited to serve as an Associate Editor of ACM IMWUT.
 - [12/11/2025] Yansong, my first PhD student, received the 2025 IoT Student Achievement Award at HKUST(GZ). Congratulations!
