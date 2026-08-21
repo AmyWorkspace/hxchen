@@ -51,6 +51,7 @@ I am currently interested in exploring the practical challenges and requirements
 
 ## News
 
+- [21/08/2026] TurnFlow is accepted to EMNLP 2026 (Findings). Congratulations to Zhixun!
 - [18/06/2026] EmbedCopilotBench is accepted to ECCV 2026 (Oral). Congratulations to Dongsheng and Yimo!
 - [01/04/2026] MemAura is accepted to IMWUT/Ubicomp 2026. Congratulations to Siyuan!
 - [24/03/2026] Invited to serve as an Associate Editor of ACM IMWUT.
