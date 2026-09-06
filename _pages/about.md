@@ -31,23 +31,11 @@ My Chinese name and its pronunciation are
 - Agentic AI (for domain-specific workflows and everyday scenarios)
 - Security and Privacy in Sensing/Perception Systems
 
-I always welcome motivated PhD/MPhil/Research Interns/Visitors to work with me at HKUST(GZ).
-For the latest recruitment details, please visit [this link](https://www.chenhuangxun.com/recruitment/).
+<span style="color: red;">I always welcome motivated PhD/MPhil/Research Interns/Visitors to work with me at HKUST(GZ).
+For the latest recruitment details, please visit [this link](https://www.chenhuangxun.com/recruitment/).</span>
 
 I am also broadly interested in challenging problems with practical impact and also keep open-minded to cross-disciplinary problem domains. Email me if you'd like to chat.
 
-<!--
-
-My past research spans the areas of intelligent sensing, cyber-physical security, internet of things, network configuration management and their intersection with machine learning techniques.
-Relevant papers have been published in conferences in the fields of computer networks, ubiquitous computing, and machine learning, including SIGCOMM/UBICOMP/AAAI/INFOCOM/USENIX Security/....
-
-I am currently interested in exploring the practical challenges and requirements encountered in the design, management, and evolution of networks and cyber-physical systems. My goal is to utilize cutting-edge technologies like artificial intelligence to develop supportive frameworks, systems, and algorithms, which aim to achieve a range of objectives, including but not limited to:
-
-- Accelerate intent-based system design.
-- Achieve system behavior management based on specification requirements.
-- Streamline the complexity of cognition and interaction in the design, management, and evolution of networks and cyber-physical systems.
-- etc...
--->
 
 ## News
 
