@@ -31,8 +31,10 @@ My Chinese name and its pronunciation are
 - Agentic AI (for domain-specific workflows and everyday scenarios)
 - Security and Privacy in Sensing/Perception Systems
 
-<span style="color: red;">I always welcome motivated PhD/MPhil/Research Interns/Visitors to work with me at HKUST(GZ).
-For the latest recruitment details, please visit [this link](https://www.chenhuangxun.com/recruitment/).</span>
+<span style="color: red;">
+I welcome inquiries from motivated prospective PhD and MPhil students, research assistants and research interns interested in joining my group at HKUST(GZ).
+For current openings and application instructions, please visit the [recruitment page](https://www.chenhuangxun.com/recruitment/). 
+</span>
 
 I am also broadly interested in challenging problems with practical impact and also keep open-minded to cross-disciplinary problem domains. Email me if you'd like to chat.
 
