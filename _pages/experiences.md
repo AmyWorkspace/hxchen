@@ -21,14 +21,16 @@ author_profile: true
 <big>**Teaching Experience**</big>
 
 - **Instructor** at _HKUST(GZ)_ (2023 - now)
-  - [IOTA 5202] Efficient Machine Learning for Resource Constrained Environments [Spring 2024/Fall 2024/Spring 2026] [intro](https://mp.weixin.qq.com/s/LigUkImpwQLVHjOUkOysKg)
+  - [IOTA 5202] Efficient Machine Learning for Resource Constrained Environments [Spring 2024/Fall 2024/Spring 2026/Spring 2027] [intro](https://mp.weixin.qq.com/s/LigUkImpwQLVHjOUkOysKg)
   - [IOTA 5503] Systems Security and Privacy: Theory and Applications [Spring 2024, co-instruction with Prof. TYSON, Gareth John]
   - [IOTA 6102] Internet of Things Seminar II [Spring 2025/Spring 2026]
   - [INFH 5000] Information Science and Technology: Essentials and Trends (IoT Module) [Fall 2023/Spring 2024/Fall 2024/Spring 2025/Summer 2025]
+  - [UFUG 2602]	Data Structure and Algorithm Design [Spring 2027]
   - [UFUG 1601] Introduction to Computer Science [Fall 2025]
   - [AAIA 5031] Introduction to Computing Using Python [Fall 2025]
   - [AIAA 3102] Python Programming with Artificial Intelligence [Summer 2026]
   - [AIAA 1010] Academic Orientation for AI Students ("Embedded AI" session) [Spring 2026]
+
 
 - **Teaching Assistant** at _HKUST_ (2015 - 2018)
   - [COMP4621] Computer Communication Networks I
@@ -46,7 +48,7 @@ author_profile: true
   - ACM IMWUT (Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies) [[link]](https://dl.acm.org/journal/imwut/editorial-board)
 
 - **TPC Member**:
-  - AAAI (The Annual AAAI Conference on Artificial Intelligence) [2026](https://aaai.org/conference/aaai/aaai-26/main-technical-track-call/)
+  - AAAI (The Annual AAAI Conference on Artificial Intelligence) [2027](https://aaai.org/conference/aaai/aaai-27/)/[2026](https://aaai.org/conference/aaai/aaai-26/2026-program-committee/)
   - AAAI (The Annual AAAI Conference on Artificial Intelligence) - AI Alignment Track [2026](https://aaai.org/conference/aaai/aaai-26/aia-call/)
   - ACM MobiSys (International Conference on Mobile Systems, Applications, and Services) [2025](https://sigmobile.org/mobisys/2025/technical_program_committee/)
   - IEEE/ACM IWQoS (International Symposium on Quality of Service) [2026](https://iwqos2026.ieee-iwqos.org/committees)/[2025](https://iwqos2025.ieee-iwqos.org/)/[2024](https://iwqos2024.ieee-iwqos.org/)
@@ -63,13 +65,12 @@ author_profile: true
   - N2Women Program of ACM MobiSys 2025 [[link]](https://www.sigmobile.org/mobisys/2025/n2women_program/)
 
 - **Reviewer**:
-  - ACM IMWUT/Ubicomp (Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies)
   - ACM CHI (Conference on Human Factors in Computing Systems)
-  - NeurIPS (Annual Conference on Neural Information Processing Systems)
+  - ICML (International Conference on Machine Learning)
+  - IEEE TMC (Transactions on Mobile Computing) 
   - IEEE IoTJ (Internet of Things Journal)
   - IEEE TDSC (Transactions on Dependable and Secure Computing)
   - IEEE TCC (Transactions on Cloud Computing)
-  - IEEE IJCAI (International Joint Conference on Artificial Intelligence)
   - IEEE ICASSP (International Conference on Acoustics, Speech, & Signal Processing)
   - IEEE Network
 
