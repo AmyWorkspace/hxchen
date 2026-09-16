@@ -25,8 +25,9 @@ author_profile: true
 [//]: # (- Xinjiao Li, 2025.1-, &#40;B.S.@DUT, M.S.@DUT, primary supervisor: [Prof. Dirk Kutscher]&#40;https://dirk-kutscher.info/&#41;, co-supervision starting from 2025.5&#41;)
 [//]: # (- Yisu Wang, 2024.1-, &#40;Dual M.S.@Xidian-LoughboroughU, primary supervisor: [Prof. Dirk Kutscher]&#40;https://dirk-kutscher.info/&#41;, co-supervision starting from 2024.12&#41;)
 
-<big>**Mphil Student[@RedBird Program](https://vptlo.hkust-gz.edu.cn/rbm/)**</big>
+<big>**Mphil Student@RedBird Program**</big>
 - Yimo Deng, 2026.9-2028.6 (B.S.@NEU)
+- Jiaming Chen, 2026.9-2028.6 (B.S.@SEU)
 - Xinyao Zhang, 2025.9-2027.6 (B.S.@BUPT)
 - Zheye Yin, 2025.9-2027.6 (B.S.@DUT)
 - Mansha Liao, 2025.9-2027.6 (B.S.@UESTC)
