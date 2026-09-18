@@ -41,9 +41,10 @@ I am also broadly interested in challenging problems with practical impact and a
 
 ## News
 
+- [18/09/2026] FloWeaver is accepted to IMWUT/UbiComp 2026. Congratulations to Siyuan!
 - [21/08/2026] TurnFlow is accepted to EMNLP 2026 (Findings). Congratulations to Zhixun!
 - [18/06/2026] EmbedCopilotBench is accepted to ECCV 2026 (Spotlight). Congratulations to Dongsheng and Yimo!
-- [01/04/2026] MemAura is accepted to IMWUT/Ubicomp 2026. Congratulations to Siyuan!
+- [01/04/2026] MemAura is accepted to IMWUT/UbiComp 2026. Congratulations to Siyuan!
 - [24/03/2026] Invited to serve as an Associate Editor of ACM IMWUT.
 - [12/11/2025] Yansong, my first PhD student, received the 2025 IoT Student Achievement Award at HKUST(GZ). Congratulations!
 - [22/08/2025] MemAura is accepted to MobiCom 2025 (Posters). Congratulations to Siyuan!
