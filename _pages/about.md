@@ -40,7 +40,8 @@ I am also broadly interested in challenging problems with practical impact and a
 
 
 ## News
-
+ 
+- [21/09/2026] Honored to receive the 2026 ACM SIGBED China Rising Star Award. 
 - [18/09/2026] FloWeaver is accepted to IMWUT/UbiComp 2026. Congratulations to Siyuan!
 - [21/08/2026] TurnFlow is accepted to EMNLP 2026 (Findings). Congratulations to Zhixun!
 - [18/06/2026] EmbedCopilotBench is accepted to ECCV 2026 (Spotlight). Congratulations to Dongsheng and Yimo!
