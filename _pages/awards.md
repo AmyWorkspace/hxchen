@@ -6,12 +6,12 @@ author_profile: true
 
 <big>**Awards and Honors**</big>
 
-- ACM SIGBED China Rising Star Award 2026
-- ICML 2026 Silver Reviewer Award 
-- ACM IMWUT/Ubicomp 2025 Distinguished Paper Award 
+- ACM SIGBED China Rising Star Award (2026)
+- ICML Silver Reviewer Award (2026)
+- ACM IMWUT/UbiComp Distinguished Paper Award (2025)
 - National-Level (MoE) Overseas Talent (2024)
 - Guangdong Pearl-River Top Young Talent (2024)
-- ACM SIGCOMM 2022 Best Paper Award
+- ACM SIGCOMM Best Paper Award (2022)
 - Innovation Pioneer (Second Prize), Huawei Central Research Institute (Aug. 2022, Aug. 2021)
 - Research Travel Grant, HKUST (Mar. 2020)
 - HKPFS Conference Travel Grant, HKUST (Dec. 2018)
