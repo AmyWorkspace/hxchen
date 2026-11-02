@@ -58,6 +58,7 @@ author_profile: true
   - IEEE ICDCS (International Conference on Distributed Computing Systems) [2024](https://icdcs2024.icdcs.org/)
 
 - **Chair**:
+  - Session Chair: ACM UbiComp/ISWC [2026](https://www.ubicomp.org/ubicomp-iswc-2026/accepted-papers/) 
   - Session Chair: ACM MobiSys (International Conference on Mobile Systems, Applications, and Services) [2025](https://www.sigmobile.org/mobisys/2025/program/)
   - Publicity Chair: The 6th International Conference on Science of Cyber Security (SciSec) [2024](https://scisec.org/)
 
